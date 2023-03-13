@@ -27,6 +27,7 @@ public class Patient {
 	public Patient(String name,int nPatient, LocalDateTime date, int age, Gender gender, String country, String state, Treatment treatment, Double workInterfere, boolean remoteW, List<String> comentaries) {
 		Checkers.check("The name cannot be empty", name != "");
 		Checkers.check("Patient can`t have less than 5 years", age > 5);
+		Checkers.check("The date of the examination can't be before 2014", date.isAfter(LocalDateTime.of(2014,1,1,1,1,1)));
 		this.name = name;
 		this.nPatient = nPatient;
 		this.date = date;
@@ -57,6 +58,9 @@ public class Patient {
 	}
 	
 	public Patient(String s) {
+		Checkers.check("The name cannot be empty", name != "");
+		Checkers.check("Patient can`t have less than 5 years", age > 5);
+		Checkers.check("The date of the examination can't be before 2014", date.isAfter(LocalDateTime.of(2014,1,1,1,1,1)));
 		String[] values = s.split(",");
 		String[] dval = values[2].split("-");
 		Checkers.check("Invalid format of string", values.length == 11);
@@ -140,17 +144,8 @@ public class Patient {
 		return date;
 	}
 
-	public void setDate(LocalDateTime date) {
-		this.date = date;
-	}
-
 	public int getAge() {
 		return age;
-	}
-
-	public void setAge(int age) {
-		Checkers.check("Patient can`t have less than 5 years", age > 5);
-		this.age = age;
 	}
 
 	public Gender getGender() {
@@ -171,10 +166,6 @@ public class Patient {
 
 	public String getState() {
 		return state;
-	}
-
-	public void setState(String state) {
-		this.state = state;
 	}
 
 	public Treatment getTreatment() {

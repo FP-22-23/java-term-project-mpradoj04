@@ -36,7 +36,7 @@ public class PatientTest {
 		System.out.print(p1.getTreatment()+ " "); System.out.print(p1.getWorkInterfere()+ " "); System.out.print(p1.getRemoteW()+ " "); System.out.println(p1.getComentaries());
 		
 		p2.setName("Leo"); p2.setnPatient(2); p2.setDate(LocalDateTime.of(2014,8,27,11,29,37)); p2.setAge(44); p2.setGender(Gender.MAN); p2.setCountry("United States"); 
-		p2.setState("IN"); p2.setTreatment(new Treatment(false,false)); p2.setWorkInterfere(1.0); p2.setRemoteW(false); p2.setComentaries(c2);
+		 p2.setTreatment(new Treatment(false,false)); p2.setWorkInterfere(1.0); p2.setRemoteW(false); p2.setComentaries(c2);
 		System.out.println(" ");
 		System.out.println(p2);
 		System.out.println(" ");
