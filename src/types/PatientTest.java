@@ -22,9 +22,11 @@ public class PatientTest {
 		
 		Patient p1 = new Patient("Elysa",1,LocalDateTime.of(2014,8,27,11,29,31),37,Gender.WOMAN, "United States", "IL",new Treatment(false,true),3.0,false,c1);
 		Patient p2 = new Patient("Richard",50,40,new Treatment(true,true));
+		Patient p3 = new Patient("James Russell,1,2014-08-27-11-29-37,44,-1,United States,IN,-1,-1,1.0,No");
 		
 		System.out.println(p1);
 		System.out.println(p2);
+		System.out.println(p3);
 		System.out.println(" ");
 		
 		

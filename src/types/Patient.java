@@ -68,7 +68,19 @@ public class Patient {
 		String country = values[5].trim();
 		String state = values[6].trim();
 		Treatment treatment = new Treatment(parseFrecord(Integer.parseInt(values[7].trim())),parseTreatment(Integer.parseInt(values[8].trim())));
+		Double workInterfere = Double.valueOf(values[9]);
+		boolean remoteW = parseRemoteW(values[10].trim());
 		
+		this.name = name;
+		this.nPatient = nPatient;
+		this.date = date;
+		this.age = age;
+		this.gender = gender;
+		this.country = country;
+		this.state = state;
+		this.treatment = treatment;
+		this.workInterfere = workInterfere;
+		this.remoteW = remoteW;
 	}
 
 	public Gender parseGender(int i) {
@@ -97,8 +109,16 @@ public class Patient {
 			return false;
 		}
 	}
-
 	
+	public boolean parseRemoteW(String s) {
+		if (s == "Yes") {
+			return true;
+		}
+		else {
+			return false;
+		}
+	}
+
 	public String getName() {
 		return name;
 	}
