@@ -21,25 +21,15 @@ The dataset I am going to work with can be found and downloaded in the next link
 My data set contains \<11\>  different columns which give information about:
 
 * **\<Name>**: type \<String\>, represents the name of the patient
-
 * **\<Patient>**: type  \<int\>, represents number of the patient, increasing in order as it does the time when they got checked
-
 * **\<Timestamp>**: type \<LocalDateTime\>, represents the time when they got checked
-
 * **\<Age>**: type \<int\>, the age of the patient
-
 * **\<Gender>**: type \<int\>, if it is a 1, then the patient is a woman. -1 is a man 
-
 * **\<Country>**: type \<String\>, their country of birth
-
 * **\<State>**: type \<String\>, if they're from the USA, then it will show the state their from, otherwise, it will be empty
-
 * **\<family_history>**: type \<int\>, 1 represents they have familiar background with mental issues, -1 otherwise
-
 * **\<treatment>**: type \<int\>, 1 represents if they're being medicated, -1 if they aren't.
-
 * **\<work_interfere>**: type \<Double\>, greater if their work interferes in their personal live.
-
 * **\<remote_work>**: type \<String\>, says whether they work from home or they don't
 
 ## Implemented types
@@ -52,30 +42,40 @@ Represents the data about a patient
 
 **\<Properties>**
 
-name, type <String>, searchable and modifiable. The name of the patient.
-nPatient, type <int>, searchable and modifiable. The number of the patient (simbolizes order of treatment).
+name, type <String>, searchable and modifiable. The name of the patient.<br>
+
+nPatient, type <int>, searchable and modifiable. The number of the patient (simbolizes order of treatment).<br>
+
 date, type <LocalDateTime>, searchable. When did the patient got the examination.
-age, type <int>, searchable. The age of the patient.
-gender, type<Gender> searchable and modifiable. Indicates the gender of the patient. Can take the values MAN,WOMAN.
-country, type<String> searchable and modifiable. Their country of birth.
-state, type<String> searchable. If they're from the USA, it shows what state they're from.
-treatment, type<Treatment> searchable and modifiable. Shows with two boolean values if they have family record, and if they are taking some kind of treatment.
-workInterfere, type<Double> searchable and modifiable. As greater the number, greater the implication its work has with their personal live.
-employ, type<Employ>, searchable. Indicates what kind of work they are in. Can take the values UNKNOWN,UNEMPLOYED,WORKER,SELFEMPLOYED.
-remoteW, type<boolean>, searchable and modifiable. True if they work from home, false otherwise.
-comentaries, type<List<String>> searchable and modifiable. Some comentaries about the characteristics of the patient.
+age, type <int>, searchable. The age of the patient.<br>
+
+gender, type<Gender> searchable and modifiable. Indicates the gender of the patient. Can take the values MAN,WOMAN.<br>
+
+country, type<String> searchable and modifiable. Their country of birth.<br>
+
+state, type<String> searchable. If they're from the USA, it shows what state they're from.<br>
+
+treatment, type<Treatment> searchable and modifiable. Shows with two boolean values if they have family record, and if they are taking some kind of treatment.<br>
+
+workInterfere, type<Double> searchable and modifiable. As greater the number, greater the implication its work has with their personal live.<br>
+
+employ, type<Employ>, searchable. Indicates what kind of work they are in. Can take the values UNKNOWN,UNEMPLOYED,WORKER,SELFEMPLOYED.<br>
+
+remoteW, type<boolean>, searchable and modifiable. True if they work from home, false otherwise.<br>
+
+comentaries, type<List<String>> searchable and modifiable. Some comentaries about the characteristics of the patient.</p>
 
 **\<Constructors>**
 
-C1: Has a parameter for each basic property of the type.
-C2: Creates a type ```Patient``` from the following parameters ```String name, int nPatient, int age, Treatment treatment```.
-C3: Creates a type ```Patient``` from a String.
+C1: Has a parameter for each basic property of the type.<br>
+C2: Creates a type *Patient* from the following parameters *String name, int nPatient, int age, Treatment treatment*.<br>
+C3: Creates a type *Patient* from a String.</p>
 
 **\<Restrictions>**
 
-R1: the name of the patient cannot be empty.
-R2: the age of the patient cannot be less than 5 years.
-R3: the date of the examination must be after year 2014 (included).
+R1: the name of the patient cannot be empty.<br>
+R2: the age of the patient cannot be less than 5 years.<br>
+R3: the date of the examination must be after year 2014 (included).</p>
 
 ***Equality criterium**: Two patients are equal if all their basic properties are equal.
 
@@ -91,12 +91,13 @@ One of the basic properties in Patient
 
 **\<Properties>**
 
-fRecord, type<boolean>, searchable and modifiable. True if he/she has family record , false if he/she doesn't
-treatment, type<boolean>, searchable and modifiable.. True if he/she takes medication, false if he/she doesn't
+fRecord, type<boolean>, searchable and modifiable. True if he/she has family record , false if he/she doesn't<br>
+
+treatment, type<boolean>, searchable and modifiable.. True if he/she takes medication, false if he/she doesn't</p>
 
 **\<Constructors>**
 
-C1: Has a parameter for each basic property of the type.
+C1: Has a parameter for each basic property of the type.<br>
 C2: Doesn't take parameters.
 
 ***Equality criterium**: Two treatments are equal if all their basic properties are equal.
