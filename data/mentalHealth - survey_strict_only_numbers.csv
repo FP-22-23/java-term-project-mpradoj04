@@ -1,0 +1,1261 @@
+Name,Patient,Timestamp,Age,Gender,Country,state,family_history,treatment,work_interfere,remote_work
+Kevin Gibbs,0,2014-08-27-11-29-31,37,1,United States,IL,-1,1,3.0,No
+James Russell,1,2014-08-27-11-29-37,44,-1,United States,IN,-1,-1,1.0,No
+Jacqueline Martin MD,2,2014-08-27-11-29-44,32,-1,Canada,,-1,-1,1.0,No
+Francisco Kramer,3,2014-08-27-11-29-46,31,-1,United Kingdom,,1,1,3.0,No
+Kristin Robinson,4,2014-08-27-11-30-22,31,-1,United States,TX,-1,-1,0.0,Yes
+Angela Cobb,5,2014-08-27-11-31-22,33,-1,United States,TN,1,-1,2.0,No
+Daniel Robinson,6,2014-08-27-11-31-50,35,1,United States,MI,1,1,2.0,Yes
+Allison Smith,7,2014-08-27-11-32-05,39,-1,Canada,,-1,-1,0.0,Yes
+Kathleen Bradley,8,2014-08-27-11-32-39,42,1,United States,IL,1,1,2.0,No
+Stephen Mills,9,2014-08-27-11-32-43,23,-1,Canada,,-1,-1,0.0,No
+Michael Daniels,10,2014-08-27-11-32-44,31,-1,United States,OH,-1,1,2.0,Yes
+Autumn Curry,11,2014-08-27-11-32-49,29,-1,Bulgaria,,-1,-1,0.0,Yes
+John Zamora,12,2014-08-27-11-33-23,42,1,United States,CA,1,1,2.0,No
+Roger Morales,13,2014-08-27-11-33-26,36,-1,United States,CT,1,-1,0.0,No
+Valerie Mclaughlin,14,2014-08-27-11-33-57,27,-1,Canada,,-1,-1,0.0,No
+Connor Galvan,15,2014-08-27-11-34-00,29,1,United States,IL,1,1,1.0,No
+Dennis Strong,16,2014-08-27-11-34-20,23,-1,United Kingdom,,-1,1,2.0,Yes
+Peter Benson,17,2014-08-27-11-34-37,32,-1,United States,TN,-1,1,2.0,No
+Monica Little,18,2014-08-27-11-34-53,46,-1,United States,MD,1,-1,2.0,Yes
+Michelle Walters,19,2014-08-27-11-35-08,36,-1,France,,1,-1,1.5427,Yes
+Jennifer Sanchez,20,2014-08-27-11-35-12,29,-1,United States,NY,1,1,2.0,No
+Troy Jackson,21,2014-08-27-11-35-24,31,-1,United States,NC,-1,-1,0.0,Yes
+Tyler Price,22,2014-08-27-11-35-48,46,-1,United States,MA,-1,1,3.0,Yes
+Adrian Carter,23,2014-08-27-11-36-24,41,-1,United States,IA,-1,1,0.0,No
+Carmen Raymond,24,2014-08-27-11-36-48,33,-1,United States,CA,1,1,1.0,No
+Jessica Spence,25,2014-08-27-11-37-08,35,-1,United States,TN,1,1,2.0,No
+Sarah Davis,26,2014-08-27-11-37-23,33,-1,United States,TN,-1,-1,1.5427,No
+Mrs. Emma Salinas,27,2014-08-27-11-37-59,35,1,United States,CA,1,1,1.0,Yes
+Janice Rodriguez,28,2014-08-27-11-38-12,34,-1,United States,OH,-1,1,2.0,Yes
+Brittany Bird,29,2014-08-27-11-38-18,37,-1,United Kingdom,,-1,-1,2.0,No
+Jason Grant,30,2014-08-27-11-39-03,32,-1,United Kingdom,,-1,-1,0.0,Yes
+Lori Hill,31,2014-08-27-11-38-55,31,-1,United States,PA,1,-1,1.0,Yes
+Todd Middleton,32,2014-08-27-11-39-31,30,-1,United Kingdom,,1,1,2.0,Yes
+Molly Sharp,33,2014-08-27-11-39-36,42,-1,United States,WA,1,1,2.0,Yes
+Kaitlin Aguirre,34,2014-08-27-11-40-51,40,1,United States,WI,-1,1,2.0,No
+Richard Payne,35,2014-08-27-11-41-17,27,-1,United States,NY,-1,1,1.0,No
+Kelly Rose,36,2014-08-27-11-41-37,29,-1,Canada,,-1,-1,1.0,No
+Kimberly Johnson,37,2014-08-27-11-41-50,38,-1,Portugal,,-1,-1,1.5427,No
+Bryce Hart,38,2014-08-27-11-42-08,50,-1,United States,IN,-1,-1,1.5427,No
+Natalie Martinez DDS,39,2014-08-27-11-42-15,35,-1,United States,TX,-1,1,1.0,Yes
+Nicholas Mack,40,2014-08-27-11-42-25,24,-1,United Kingdom,,-1,1,2.0,No
+Eileen Wilson,41,2014-08-27-11-42-31,35,-1,United States,MI,-1,-1,1.5427,Yes
+Nancy Benton,42,2014-08-27-11-43-07,27,-1,Canada,,1,1,2.0,No
+Lauren Ochoa,43,2014-08-27-11-43-10,18,-1,Netherlands,,-1,-1,3.0,No
+Diamond Bauer,44,2014-08-27-11-43-22,30,-1,United States,IN,-1,1,2.0,No
+Jessica Pearson,45,2014-08-27-11-43-36,38,1,United States,TX,1,1,2.0,No
+Brandon Wells,46,2014-08-27-11-43-45,28,-1,United Kingdom,,-1,-1,1.5427,No
+Elizabeth Martinez,47,2014-08-27-11-43-48,34,-1,United States,TN,-1,-1,1.5427,No
+Jack Jones,48,2014-08-27-11-43-56,26,-1,Canada,,-1,-1,2.0,No
+Kimberly Stanton,49,2014-08-27-11-44-43,30,-1,United States,IL,1,1,1.0,No
+Samantha Tucker,50,2014-08-27-11-44-55,22,-1,United States,TX,1,1,3.0,No
+Kelly Townsend,51,2014-08-27-11-45-32,33,-1,United States,UT,-1,-1,1.5427,Yes
+Richard Nichols,52,2014-08-27-11-45-33,31,-1,United States,,-1,-1,1.5427,Yes
+Steven Stewart,53,2014-08-27-11-45-51,32,-1,United States,TN,-1,-1,0.0,Yes
+Tiffany Olsen,54,2014-08-27-11-46-36,28,-1,Switzerland,,-1,-1,1.5427,No
+Jill Mata,55,2014-08-27-11-46-49,27,-1,United States,NY,1,1,1.0,No
+Andrea Boyd,56,2014-08-27-11-46-55,32,-1,United States,TN,1,-1,1.5427,Yes
+Paula King,57,2014-08-27-11-47-10,24,-1,United States,NY,1,1,2.0,Yes
+John Lam,58,2014-08-27-11-47-33,26,-1,United States,TN,-1,-1,1.5427,No
+Sharon Summers,59,2014-08-27-11-47-56,33,-1,Canada,,1,1,3.0,Yes
+Deborah Chung,60,2014-08-27-11-48-57,44,-1,United States,IA,1,1,2.0,No
+Nicholas Cline,61,2014-08-27-11-49-51,26,1,Poland,,-1,1,2.0,Yes
+Renee Beck,62,2014-08-27-11-50-27,27,-1,United Kingdom,,-1,-1,0.0,No
+Christopher Morrison,63,2014-08-27-11-50-28,26,-1,France,,-1,-1,1.5427,No
+Anne Ryan,64,2014-08-27-11-50-46,35,-1,Canada,,-1,-1,2.0,No
+Tina Smith,65,2014-08-27-11-51-07,40,-1,United States,CA,1,-1,2.0,Yes
+Natasha Miller,66,2014-08-27-11-51-34,23,1,Australia,,1,1,3.0,Yes
+Patricia Waters,67,2014-08-27-11-52-07,36,-1,United States,TX,-1,-1,2.0,Yes
+Norman Garcia,68,2014-08-27-11-52-41,31,1,United States,NM,-1,-1,1.5427,Yes
+Rebecca Reese,69,2014-08-27-11-52-44,34,-1,United States,NY,-1,-1,1.0,Yes
+Melissa Fowler,70,2014-08-27-11-53-05,28,-1,France,,-1,-1,0.0,No
+Thomas Robinson,71,2014-08-27-11-53-25,34,-1,Canada,,-1,-1,0.0,No
+Alexis Fisher,72,2014-08-27-11-54-27,23,0,United States,MA,-1,-1,1.0,No
+Stephanie Nicholson,73,2014-08-27-11-56-17,38,-1,United Kingdom,,-1,-1,1.5427,No
+Stephanie Chavez,74,2014-08-27-11-56-29,33,-1,United States,CA,-1,-1,0.0,No
+Lisa Hamilton,75,2014-08-27-11-57-30,19,-1,United Kingdom,,-1,-1,1.5427,No
+Richard May,76,2014-08-27-11-57-33,25,-1,United States,WA,-1,-1,1.5427,Yes
+Brandon Nunez,77,2014-08-27-11-57-54,31,-1,United States,WA,1,-1,2.0,Yes
+Anna Gutierrez,78,2014-08-27-11-59-31,32,-1,United States,UT,1,1,2.0,Yes
+Timothy Moreno,79,2014-08-27-12-00-02,28,-1,Germany,,-1,-1,0.0,Yes
+James Henry,80,2014-08-27-12-01-50,38,-1,United States,NY,1,-1,2.0,Yes
+Dennis Woods,81,2014-08-27-12-02-40,23,-1,United Kingdom,,-1,-1,0.0,No
+Daniel Reyes,82,2014-08-27-12-02-52,30,-1,Canada,,-1,-1,0.0,No
+Justin Carter MD,83,2014-08-27-12-03-30,27,1,United States,NY,-1,1,3.0,Yes
+Monique Hunter,84,2014-08-27-12-05-13,33,-1,United States,CA,1,-1,0.0,No
+James Small,85,2014-08-27-12-05-37,31,-1,United States,TX,-1,-1,1.5427,No
+Jordan Lopez,86,2014-08-27-12-07-08,39,-1,United Kingdom,,-1,1,3.0,No
+Alejandra Phillips,87,2014-08-27-12-10-43,34,1,United States,OR,1,1,1.0,Yes
+Stephen Hamilton,88,2014-08-27-12-11-00,29,1,United States,FL,-1,1,2.0,No
+Jason Spencer,89,2014-08-27-12-11-07,32,-1,United States,IL,-1,-1,1.5427,No
+Rhonda Burke,90,2014-08-27-12-12-47,31,-1,United States,NY,-1,-1,0.0,No
+Alexa Mills,91,2014-08-27-12-13-30,40,-1,United States,TX,-1,1,2.0,No
+Alex Lane,92,2014-08-27-12-14-13,34,-1,United States,OH,-1,-1,1.5427,No
+Laura Ramirez,93,2014-08-27-12-15-11,18,-1,Russia,,-1,-1,1.5427,Yes
+Jason Harper,94,2014-08-27-12-15-19,25,1,Canada,,-1,1,2.0,No
+Raymond Mills,95,2014-08-27-12-15-30,29,-1,United States,MN,-1,-1,0.0,No
+Valerie Walker,96,2014-08-27-12-16-21,24,-1,United States,MO,1,-1,1.0,No
+Tyler Green,97,2014-08-27-12-17-01,31,-1,Mexico,,1,1,2.0,No
+James Leach,98,2014-08-27-12-18-02,33,-1,United States,AZ,-1,1,2.0,No
+Joseph Carey,99,2014-08-27-12-18-04,30,-1,United States,IN,-1,1,3.0,No
+Meghan Gillespie,100,2014-08-27-12-18-14,26,1,Canada,,1,1,2.0,No
+Tyler Bradley,101,2014-08-27-12-18-38,44,1,United States,MA,-1,-1,0.0,No
+Alexandra Nicholson,102,2014-08-27-12-19-52,25,-1,United States,NY,1,-1,1.5427,No
+Alvin Tate,103,2014-08-27-12-20-10,33,-1,United States,WI,1,1,2.0,Yes
+Andrea Johnson,104,2014-08-27-12-22-55,29,-1,United States,NY,-1,-1,0.0,No
+Leah Lane,105,2014-08-27-12-23-48,35,-1,United States,MO,1,-1,1.0,No
+Bobby Lucero,106,2014-08-27-12-23-59,35,-1,United States,OR,1,1,2.0,Yes
+Corey Edwards,107,2014-08-27-12-25-09,28,-1,Brazil,,1,1,1.0,No
+Erin Lee,108,2014-08-27-12-28-12,34,-1,United States,TN,1,-1,0.0,Yes
+Michael Romero,109,2014-08-27-12-28-16,32,-1,United States,WA,-1,1,2.0,No
+Amanda Donovan,110,2014-08-27-12-29-25,22,-1,United States,NY,-1,1,2.0,No
+David Singleton,111,2014-08-27-12-31-02,28,-1,United States,CA,-1,1,2.0,No
+Karen Carroll,112,2014-08-27-12-31-03,45,-1,United States,MO,1,1,1.0,Yes
+Kenneth Grimes,113,2014-08-27-12-31-14,32,-1,United States,NY,-1,-1,0.0,No
+Patricia Jones,114,2014-08-27-12-31-28,28,-1,United States,TX,-1,-1,1.5427,No
+Susan Torres,115,2014-08-27-12-31-34,26,-1,United Kingdom,,-1,-1,0.0,No
+Jeffrey Taylor,116,2014-08-27-12-31-41,21,-1,United Kingdom,,-1,-1,3.0,Yes
+Jason Richardson,117,2014-08-27-12-31-41,27,-1,Canada,,-1,-1,1.0,No
+Meredith Fernandez,118,2014-08-27-12-31-43,18,-1,United States,CT,-1,1,1.0,Yes
+Lindsay Brown,119,2014-08-27-12-32-24,35,-1,United States,CO,-1,-1,1.5427,Yes
+Joseph Harper,120,2014-08-27-12-32-59,29,-1,United States,GA,-1,-1,0.0,No
+Jessica Meyer,121,2014-08-27-12-33-00,25,-1,United States,DC,-1,-1,1.5427,Yes
+Danielle Bates,122,2014-08-27-12-33-23,33,-1,United States,MN,1,1,2.0,Yes
+Matthew Porter,123,2014-08-27-12-33-36,36,-1,United States,WA,-1,-1,3.0,No
+William Cooper,124,2014-08-27-12-33-56,27,-1,Canada,,-1,1,0.0,No
+Elizabeth Rodriguez,125,2014-08-27-12-34-11,27,-1,United States,WA,1,-1,0.0,No
+Stephanie Ortiz,126,2014-08-27-12-34-13,27,-1,United Kingdom,,-1,-1,1.5427,No
+Joel Valenzuela,127,2014-08-27-12-34-35,32,-1,United States,OR,-1,1,1.0,No
+Richard Lester,128,2014-08-27-12-34-48,31,-1,United Kingdom,,1,-1,2.0,No
+Sarah Thompson,129,2014-08-27-12-34-51,19,-1,Slovenia,,-1,1,2.0,No
+Janice Coleman,130,2014-08-27-12-34-57,33,-1,United States,IL,1,1,2.0,No
+Randall Hernandez,131,2014-08-27-12-35-23,32,-1,United States,CA,-1,-1,1.0,Yes
+Jasmine Hughes,132,2014-08-27-12-36-03,27,-1,United States,NE,-1,-1,0.0,No
+Wayne Jones,133,2014-08-27-12-36-18,38,-1,Costa Rica,,-1,-1,1.5427,Yes
+Sarah Mann,134,2014-08-27-12-36-53,24,-1,Canada,,-1,1,0.0,No
+Rachel Walker,135,2014-08-27-12-37-09,39,-1,United Kingdom,,-1,-1,0.0,No
+Sophia Chapman,136,2014-08-27-12-37-26,28,-1,United Kingdom,,-1,-1,0.0,No
+Christian Dominguez,137,2014-08-27-12-37-31,39,-1,United States,IA,-1,1,3.0,No
+Eric Cole,138,2014-08-27-12-37-50,29,1,United States,MD,-1,-1,1.5427,No
+Jessica Cook,139,2014-08-27-12-37-50,22,-1,Austria,,-1,-1,1.5427,Yes
+Austin Torres,140,2014-08-27-12-38-11,38,-1,United States,OR,1,1,2.0,No
+Eugene Johnson,141,2014-08-27-12-38-18,37,-1,United Kingdom,,-1,1,2.0,No
+Heather Shelton,142,2014-08-27-12-38-25,35,-1,United States,TX,-1,-1,0.0,Yes
+Gabriel Salinas,143,2014-08-27-12-39-14,-29,-1,United States,MN,-1,-1,1.5427,Yes
+Jennifer Moore,144,2014-08-27-12-39-18,30,1,United States,PA,1,-1,1.5427,Yes
+Penny George,145,2014-08-27-12-39-21,37,-1,United States,IN,1,1,1.0,No
+Danielle Keith,146,2014-08-27-12-39-48,24,-1,United Kingdom,,-1,-1,0.0,No
+Gregory Gutierrez,147,2014-08-27-12-39-57,23,-1,United States,WV,-1,-1,2.0,No
+Michael Anderson,148,2014-08-27-12-40-03,30,-1,Ireland,,-1,1,1.0,No
+Bonnie Pacheco,149,2014-08-27-12-40-06,29,1,United States,MI,-1,-1,1.5427,Yes
+Patricia Wong,150,2014-08-27-12-40-36,19,-1,Canada,,1,-1,1.5427,Yes
+Michael Johnson,151,2014-08-27-12-40-53,32,-1,United States,CA,1,-1,0.0,No
+Christopher Wood,152,2014-08-27-12-41-04,28,-1,Poland,,-1,-1,1.0,Yes
+Christian Gallegos,153,2014-08-27-12-41-20,36,-1,United States,IL,-1,-1,0.0,No
+Brandon Howard,154,2014-08-27-12-41-59,37,-1,United Kingdom,,1,1,1.0,No
+Mark Hendricks,155,2014-08-27-12-42-24,25,-1,United States,IL,1,1,2.0,No
+Sean Gordon,156,2014-08-27-12-42-52,27,-1,United States,CA,1,1,2.0,No
+Tyler White,157,2014-08-27-12-43-28,26,-1,United States,OK,-1,-1,3.0,No
+David Kelly,158,2014-08-27-12-43-28,27,-1,United States,UT,-1,1,1.0,Yes
+Zachary Fleming,159,2014-08-27-12-43-40,25,-1,United States,IL,1,1,2.0,No
+Thomas Montoya,160,2014-08-27-12-43-53,36,-1,United Kingdom,,-1,1,2.0,No
+Brandon Patel,161,2014-08-27-12-44-51,25,1,United States,NY,1,1,2.0,No
+Donna White,162,2014-08-27-12-44-51,31,-1,United States,CA,-1,-1,0.0,No
+Jonathan Murphy,163,2014-08-27-12-45-44,26,-1,United States,MA,1,-1,1.0,No
+Juan Barajas,164,2014-08-27-12-46-03,33,1,United States,WA,1,1,2.0,No
+Leslie Johnson,165,2014-08-27-12-47-25,27,1,United Kingdom,,1,-1,1.5427,Yes
+Rachel Martinez,166,2014-08-27-12-48-06,34,-1,United States,MN,-1,-1,0.0,No
+Evan Mcpherson,167,2014-08-27-12-48-29,42,-1,United States,CA,-1,-1,1.5427,No
+Michael Smith,168,2014-08-27-12-48-37,23,-1,Ireland,,1,-1,2.0,No
+Jennifer Simon,169,2014-08-27-12-48-39,24,-1,United Kingdom,,-1,-1,1.0,No
+Tiffany Walker,170,2014-08-27-12-48-40,26,-1,United Kingdom,,-1,1,2.0,No
+Heather Jones,171,2014-08-27-12-48-51,31,-1,United Kingdom,,-1,1,3.0,No
+Gabriel Miles,172,2014-08-27-12-49-21,22,-1,India,,-1,1,0.0,No
+David Braun,173,2014-08-27-12-49-27,23,1,United States,NC,-1,-1,1.5427,No
+Amanda Brown,174,2014-08-27-12-49-30,34,1,Canada,,1,1,2.0,No
+Luis Duarte,175,2014-08-27-12-49-39,31,-1,United States,MO,-1,-1,0.0,No
+Jared Clark,176,2014-08-27-12-50-36,28,-1,United Kingdom,,-1,-1,1.5427,No
+Michael Edwards,177,2014-08-27-12-50-57,32,1,United States,MA,-1,1,3.0,Yes
+Jessica Tate,178,2014-08-27-12-51-25,45,1,United States,CA,-1,1,2.0,No
+Devon Johnson,179,2014-08-27-12-51-36,33,-1,United States,TX,-1,-1,1.5427,Yes
+Michael Robinson,180,2014-08-27-12-51-42,29,-1,Mexico,,-1,-1,0.0,Yes
+Amy Thomas,181,2014-08-27-12-51-50,26,1,India,,-1,-1,2.0,No
+Dr. Patrick Stanley DVM,182,2014-08-27-12-51-51,28,1,United Kingdom,,-1,-1,0.0,No
+Zachary Green,183,2014-08-27-12-51-55,45,-1,United States,CA,-1,1,2.0,No
+Allison Nelson,184,2014-08-27-12-52-08,43,-1,United States,WA,1,1,3.0,Yes
+Steven Atkinson,185,2014-08-27-12-52-46,37,-1,United States,MA,-1,-1,1.5427,Yes
+Jennifer Mcdaniel,186,2014-08-27-12-52-49,24,-1,United Kingdom,,-1,-1,2.0,No
+Monica Howard,187,2014-08-27-12-53-00,26,-1,France,,-1,-1,1.5427,Yes
+Christopher Bennett,188,2014-08-27-12-53-05,23,-1,United Kingdom,,1,-1,1.5427,Yes
+Pamela Garcia,189,2014-08-27-12-53-13,35,1,United States,CA,1,1,0.0,No
+Stephanie Lee,190,2014-08-27-12-53-15,38,1,South Africa,,1,1,3.0,Yes
+Gregory Hunter,191,2014-08-27-12-53-40,28,-1,United States,MI,1,1,2.0,No
+Sean Duran,192,2014-08-27-12-54-11,28,-1,Russia,,-1,-1,2.0,No
+Lucas Shepherd,193,2014-08-27-12-54-11,35,-1,United States,CA,-1,1,1.0,No
+Daniel Kim,194,2014-08-27-12-54-30,32,1,Germany,,-1,-1,2.0,No
+Craig Olson,195,2014-08-27-12-54-47,31,-1,Italy,,1,-1,0.0,No
+Sandra Rogers,196,2014-08-27-12-55-01,35,1,United States,NY,-1,-1,0.0,Yes
+Joshua Garcia,197,2014-08-27-12-55-38,26,-1,United States,CA,-1,-1,1.0,No
+Valerie Miller,198,2014-08-27-12-56-13,27,-1,United States,TN,1,-1,1.5427,Yes
+Jennifer Allen,199,2014-08-27-12-56-56,28,-1,United Kingdom,,1,1,2.0,No
+Becky Liu,200,2014-08-27-12-57-38,27,1,United States,OR,1,1,2.0,No
+Tony Mcneil,201,2014-08-27-12-57-52,34,1,United States,MN,-1,1,2.0,No
+Stephanie Garza,202,2014-08-27-12-58-10,41,-1,United States,FL,-1,1,3.0,Yes
+Suzanne Gillespie,203,2014-08-27-12-58-42,37,-1,Ireland,,-1,-1,2.0,No
+Caitlyn Marshall MD,204,2014-08-27-13-00-38,34,-1,Austria,,1,-1,1.5427,Yes
+Kaitlyn Travis,205,2014-08-27-13-02-14,32,-1,United Kingdom,,1,1,2.0,Yes
+Justin Norris,206,2014-08-27-13-03-05,21,-1,Canada,,-1,1,2.0,Yes
+John Cuevas,207,2014-08-27-13-04-18,30,-1,United States,MA,-1,1,3.0,No
+Ethan Henderson,208,2014-08-27-13-04-45,24,-1,United States,KS,-1,-1,0.0,No
+Peggy Clark,209,2014-08-27-13-05-45,26,-1,Bulgaria,,-1,-1,1.5427,No
+Tammy James,210,2014-08-27-13-06-00,40,1,United States,DC,-1,-1,1.5427,No
+Lucas Gould,211,2014-08-27-13-06-12,37,-1,United Kingdom,,1,-1,2.0,No
+Bonnie Eaton,212,2014-08-27-13-07-24,26,-1,United Kingdom,,-1,1,3.0,Yes
+Michelle Howard,213,2014-08-27-13-07-40,32,1,United States,TX,1,1,2.0,No
+Mr. Joseph Cohen DVM,214,2014-08-27-13-07-42,32,1,United States,MA,-1,1,2.0,No
+Erin Brown,215,2014-08-27-13-07-46,27,1,United States,MI,1,1,2.0,Yes
+Kelsey Webster,216,2014-08-27-13-08-17,30,-1,Germany,,-1,1,3.0,Yes
+Rhonda Lopez,217,2014-08-27-13-09-24,31,-1,Canada,,-1,-1,1.5427,No
+Sherry Humphrey,218,2014-08-27-13-09-37,29,1,United States,NY,-1,1,0.0,No
+Courtney Rodgers,219,2014-08-27-13-09-39,41,-1,United States,VA,-1,-1,1.5427,No
+Charles Arias,220,2014-08-27-13-12-31,34,1,United States,WA,-1,-1,1.5427,No
+John Lee,221,2014-08-27-13-12-43,33,-1,United Kingdom,,-1,-1,1.5427,No
+Jorge Berry,222,2014-08-27-13-14-53,28,-1,United States,PA,-1,-1,1.0,No
+Mark Lee,223,2014-08-27-13-15-19,28,-1,United States,MI,-1,1,2.0,No
+John Carroll,224,2014-08-27-13-15-25,23,-1,United States,PA,-1,-1,0.0,No
+Samuel Smith,225,2014-08-27-13-18-18,24,-1,United States,OR,-1,-1,1.5427,No
+Shane Hooper,226,2014-08-27-13-18-44,32,-1,United States,WA,-1,-1,1.0,Yes
+Joyce Hart,227,2014-08-27-13-19-40,34,-1,Australia,,-1,-1,2.0,Yes
+Timothy Williams,228,2014-08-27-13-21-00,24,-1,United States,PA,-1,-1,0.0,No
+Jerome Castillo,229,2014-08-27-13-22-42,26,-1,United Kingdom,,-1,1,2.0,No
+Kenneth Greer,230,2014-08-27-13-22-49,36,-1,United States,OH,-1,1,2.0,No
+Denise Hoffman,231,2014-08-27-13-23-38,41,-1,United States,TX,-1,1,1.0,Yes
+Carrie Weber,232,2014-08-27-13-24-34,38,-1,United Kingdom,,-1,1,2.0,No
+Gabriel Ali DDS,233,2014-08-27-13-24-57,38,-1,United States,NH,-1,-1,2.0,Yes
+Mrs. Hailey Taylor,234,2014-08-27-13-26-35,30,-1,Netherlands,,-1,-1,1.5427,No
+Steven Butler,235,2014-08-27-13-26-54,25,-1,United Kingdom,,-1,-1,0.0,No
+Michael Young,236,2014-08-27-13-27-18,37,-1,Canada,,1,1,3.0,No
+Martin Howard,237,2014-08-27-13-29-45,34,-1,United Kingdom,,1,-1,1.5427,No
+Amy Odonnell,238,2014-08-27-13-29-57,37,1,United States,NC,1,1,2.0,No
+Thomas Hall,239,2014-08-27-13-31-03,28,1,Canada,,1,1,2.0,No
+Arthur Lewis,240,2014-08-27-13-31-35,22,-1,Sweden,,-1,-1,1.5427,No
+David Martinez,241,2014-08-27-13-32-31,34,-1,United States,FL,1,1,2.0,No
+Richard Keller,242,2014-08-27-13-32-48,33,-1,United States,CA,1,1,2.0,No
+Larry Smith,243,2014-08-27-13-33-32,25,-1,South Africa,,-1,-1,1.5427,No
+Dr. Patrick Norman,244,2014-08-27-13-34-03,27,-1,United States,GA,-1,-1,0.0,Yes
+Christopher Paul,245,2014-08-27-13-35-23,40,-1,United States,OH,-1,1,2.0,Yes
+Desiree Howell,246,2014-08-27-13-35-40,21,-1,United States,KY,-1,1,3.0,No
+Mrs. Crystal Howard MD,247,2014-08-27-13-37-18,29,-1,United Kingdom,,-1,-1,1.5427,No
+Jeffery Gonzalez,248,2014-08-27-13-37-47,32,-1,United States,NC,1,1,2.0,Yes
+Christopher Gomez,249,2014-08-27-13-38-17,29,1,United States,NY,1,1,1.0,Yes
+Patrick Burns,250,2014-08-27-13-39-00,23,-1,United States,AL,1,1,2.0,Yes
+Evelyn Stevenson,251,2014-08-27-13-40-58,28,-1,United States,GA,1,-1,1.5427,No
+Elizabeth Wilkerson,252,2014-08-27-13-42-38,31,-1,United States,CA,1,1,1.0,Yes
+Mark Gardner,253,2014-08-27-13-44-05,27,-1,United Kingdom,,-1,-1,1.5427,No
+Carla Farley,254,2014-08-27-13-44-47,24,-1,United States,VA,-1,-1,2.0,No
+Richard Atkins,255,2014-08-27-13-46-03,29,-1,Canada,,-1,-1,3.0,No
+Jeffrey Thomas,256,2014-08-27-13-47-05,23,1,United Kingdom,,-1,1,2.0,No
+Joseph Holden,257,2014-08-27-13-47-27,42,-1,United States,WA,-1,-1,0.0,Yes
+Andrew Kelly,258,2014-08-27-13-48-01,24,-1,United Kingdom,,-1,-1,1.5427,No
+Karen Taylor,259,2014-08-27-13-49-15,25,-1,Australia,,1,1,3.0,No
+Molly Patterson,260,2014-08-27-13-49-32,27,1,United States,TX,-1,1,1.0,No
+Mark Moore,261,2014-08-27-13-52-05,27,-1,Canada,,-1,-1,2.0,Yes
+Amber Phillips,262,2014-08-27-13-52-57,30,-1,United States,FL,-1,1,2.0,Yes
+Katherine Kelly,263,2014-08-27-13-53-21,29,-1,Poland,,1,1,1.0,No
+Dalton Hernandez,264,2014-08-27-13-53-44,43,-1,Canada,,-1,-1,1.5427,Yes
+David Smith,265,2014-08-27-13-53-51,32,-1,United States,NV,-1,-1,1.5427,No
+James Gaines,266,2014-08-27-13-54-00,41,-1,United States,AL,-1,1,2.0,Yes
+Patricia Lopez,267,2014-08-27-13-54-24,32,-1,United Kingdom,,1,1,2.0,Yes
+Roberto Duncan,268,2014-08-27-13-55-16,37,1,United States,CA,1,1,3.0,No
+Sarah Berry,269,2014-08-27-13-55-22,32,-1,United States,CO,-1,-1,0.0,Yes
+Gary Montgomery,270,2014-08-27-13-55-38,30,-1,Ireland,,-1,-1,2.0,Yes
+Alexander Mora,271,2014-08-27-13-56-27,23,1,United States,MN,1,1,0.0,No
+Carolyn Lutz,272,2014-08-27-13-56-35,30,-1,United States,NJ,-1,-1,1.5427,No
+Kathleen Conrad,273,2014-08-27-13-59-24,34,-1,United Kingdom,,-1,-1,2.0,No
+Mary Fitzpatrick,274,2014-08-27-13-59-35,38,-1,United States,PA,-1,1,1.0,Yes
+Jennifer Bird,275,2014-08-27-14-01-25,33,-1,Canada,,-1,-1,1.5427,No
+Paul Contreras,276,2014-08-27-14-01-35,34,-1,United States,MO,-1,-1,1.5427,No
+Megan Hernandez,277,2014-08-27-14-01-54,28,-1,Colombia,,-1,-1,2.0,No
+Michael Ryan,278,2014-08-27-14-03-16,28,-1,United States,MN,-1,1,1.0,No
+Veronica Harris,279,2014-08-27-14-03-54,23,-1,United States,PA,1,-1,2.0,No
+Wesley Montoya,280,2014-08-27-14-03-59,22,-1,Australia,,1,1,2.0,Yes
+Scott Cunningham,281,2014-08-27-14-06-26,27,-1,Portugal,,-1,-1,0.0,No
+Lindsey Vance,282,2014-08-27-14-10-15,18,-1,United States,TX,-1,1,2.0,No
+Wendy Burch,283,2014-08-27-14-10-47,35,-1,United States,NY,1,1,2.0,No
+Erik Roberts,284,2014-08-27-14-10-53,25,-1,Canada,,-1,-1,1.5427,No
+Kelly Clark,285,2014-08-27-14-11-46,27,-1,United Kingdom,,1,1,2.0,No
+Michele Thompson,286,2014-08-27-14-11-52,26,1,United States,WA,1,1,1.0,No
+Edward Owens,287,2014-08-27-14-11-55,18,-1,United States,WA,-1,-1,0.0,No
+Billy Fuller,288,2014-08-27-14-13-02,38,1,United States,TX,-1,1,2.0,No
+Dr. Mary Jackson,289,2014-08-27-14-13-16,26,1,United States,TX,1,1,1.0,Yes
+Casey Singleton,290,2014-08-27-14-13-24,30,-1,Switzerland,,-1,-1,0.0,No
+Lauren Jenkins,291,2014-08-27-14-14-52,35,-1,United States,CA,-1,-1,0.0,No
+William Guerra,292,2014-08-27-14-15-13,45,-1,United States,NY,1,1,2.0,No
+Mitchell Goodwin,293,2014-08-27-14-15-21,32,-1,United States,CA,-1,-1,0.0,No
+Jamie Kemp,294,2014-08-27-14-15-57,56,-1,United States,,-1,1,0.0,No
+Amy Smith,295,2014-08-27-14-16-00,24,1,United States,CA,-1,-1,1.5427,No
+John Rodriguez,296,2014-08-27-14-18-20,30,1,United States,SC,1,1,2.0,No
+Steven Martinez,297,2014-08-27-14-18-41,60,-1,United States,CA,-1,-1,1.5427,No
+Kelly Nelson,298,2014-08-27-14-18-44,33,-1,United States,CA,1,1,2.0,No
+Kendra Smith,299,2014-08-27-14-19-08,37,-1,United States,NY,-1,-1,0.0,No
+Thomas Ford,300,2014-08-27-14-19-12,23,1,United States,NY,-1,1,2.0,No
+Daniel Perry,301,2014-08-27-14-20-08,31,1,United States,CA,-1,1,2.0,No
+Amy Coleman,302,2014-08-27-14-20-43,26,-1,United States,MA,-1,-1,1.0,No
+Donald Ryan,303,2014-08-27-14-21-37,28,1,United States,WA,1,1,3.0,Yes
+Mitchell Carter,304,2014-08-27-14-21-42,37,1,United States,CA,-1,1,1.0,No
+Eduardo Jones,305,2014-08-27-14-22-00,26,-1,Canada,,1,1,3.0,No
+Kenneth Perez,306,2014-08-27-14-22-36,30,1,United States,IL,1,1,1.0,No
+Carlos Goodwin,307,2014-08-27-14-22-43,26,-1,United States,IN,-1,-1,1.5427,No
+Catherine Parsons,308,2014-08-27-14-22-43,25,-1,United States,OR,-1,-1,1.5427,Yes
+Donald Evans,309,2014-08-27-14-23-51,27,-1,United States,TN,-1,-1,2.0,No
+Christina Graham MD,310,2014-08-27-14-23-53,25,-1,Canada,,-1,1,3.0,Yes
+Dominique Manning,311,2014-08-27-14-24-15,35,-1,United States,OR,-1,1,1.0,No
+Roger Perry,312,2014-08-27-14-25-41,36,-1,United States,WA,-1,1,0.0,No
+Tiffany Klein,313,2014-08-27-14-25-54,26,-1,United States,CA,1,1,2.0,No
+Ronald Robinson,314,2014-08-27-14-26-32,27,-1,United States,CA,1,-1,1.5427,No
+Christina Morris,315,2014-08-27-14-27-20,30,-1,United States,VT,-1,-1,1.5427,No
+Amanda Brooks,316,2014-08-27-14-27-27,29,-1,United States,NY,-1,-1,1.5427,No
+Joseph Gonzalez,317,2014-08-27-14-27-28,25,-1,United States,UT,-1,-1,0.0,No
+Robert Jenkins,318,2014-08-27-14-27-51,22,1,United States,NY,1,1,3.0,No
+Jessica Nolan,319,2014-08-27-14-28-28,29,-1,Latvia,NY,-1,-1,1.5427,No
+Kimberly Price,320,2014-08-27-14-28-41,41,-1,United States,SD,1,1,1.0,Yes
+Mary Dalton,321,2014-08-27-14-28-43,29,-1,United States,CA,-1,1,2.0,No
+Denise Wood,322,2014-08-27-14-28-49,32,-1,United States,OR,-1,-1,0.0,No
+Michael Hall,323,2014-08-27-14-28-51,24,1,United States,CA,1,1,2.0,No
+Colleen Pena,324,2014-08-27-14-29-19,25,-1,United States,CA,-1,1,1.0,No
+David Jones,325,2014-08-27-14-30-33,25,-1,United States,CA,-1,-1,1.5427,No
+Alex Livingston,326,2014-08-27-14-31-06,30,1,United States,CO,-1,-1,0.0,No
+Lori Alvarez,327,2014-08-27-14-31-28,25,-1,United States,CA,1,1,2.0,No
+Alicia Ramos,328,2014-08-27-14-31-44,30,-1,United States,OH,-1,-1,0.0,Yes
+Linda Ramirez,329,2014-08-27-14-32-22,33,-1,Germany,,1,1,1.0,No
+Steven Anderson,330,2014-08-27-14-32-46,24,-1,United States,WA,-1,-1,1.5427,No
+Edgar Mckay,331,2014-08-27-14-33-44,25,-1,Canada,,1,1,2.0,No
+Melissa Brown,332,2014-08-27-14-34-47,31,-1,United States,OH,-1,-1,1.5427,No
+Cynthia White,333,2014-08-27-14-37-33,45,-1,Ireland,,-1,1,3.0,No
+Kimberly Young,334,2014-08-27-14-37-35,29,-1,Romania,,-1,-1,1.5427,Yes
+James Smith,335,2014-08-27-14-37-46,46,-1,United States,WA,-1,-1,0.0,No
+Jenna Flores,336,2014-08-27-14-38-06,30,-1,United Kingdom,,-1,1,2.0,No
+Jorge Sanchez,337,2014-08-27-14-38-13,29,1,United States,CA,-1,-1,2.0,No
+Brian Rojas,338,2014-08-27-14-38-26,24,-1,United States,MA,-1,-1,1.5427,No
+Anthony Jones,339,2014-08-27-14-38-49,29,-1,United States,WA,-1,-1,1.5427,No
+Vickie Duncan,340,2014-08-27-14-38-54,35,-1,United States,MI,-1,-1,1.5427,No
+Kenneth Jones,341,2014-08-27-14-39-07,33,1,United States,WA,1,-1,2.0,Yes
+Philip Barber,342,2014-08-27-14-39-20,27,-1,United States,CA,-1,-1,2.0,No
+Paul Delacruz,343,2014-08-27-14-41-09,36,-1,United States,IA,-1,-1,1.5427,No
+Rachel Sullivan DDS,344,2014-08-27-14-41-16,33,-1,United Kingdom,,-1,-1,1.0,Yes
+Stephen Simpson,345,2014-08-27-14-44-29,25,1,United States,WA,1,1,2.0,No
+Elizabeth Walker,346,2014-08-27-14-45-12,23,-1,United States,AL,1,1,2.0,No
+Yolanda Hill,347,2014-08-27-14-45-45,54,-1,United States,CA,1,1,0.0,No
+Eric Cook,348,2014-08-27-14-47-10,22,-1,United States,CA,-1,-1,2.0,No
+Victor Davis,349,2014-08-27-14-47-28,25,0,United States,CA,1,1,2.0,No
+Randy Ryan,350,2014-08-27-14-49-08,29,-1,Belgium,,-1,-1,3.0,No
+Bryan Peters,351,2014-08-27-14-49-30,27,-1,United States,MA,-1,1,2.0,No
+Cassandra Jones,352,2014-08-27-14-51-29,30,-1,United Kingdom,,-1,-1,0.0,No
+Jason Reed,353,2014-08-27-14-52-44,26,-1,United States,CA,1,1,3.0,No
+Aaron Haynes,354,2014-08-27-14-52-53,25,1,Sweden,,1,-1,2.0,No
+Thomas Whitaker,355,2014-08-27-14-53-11,31,-1,United States,CA,-1,1,2.0,No
+Michael Lloyd,356,2014-08-27-14-54-23,33,-1,United States,IN,1,1,2.0,No
+Mrs. Autumn Fowler MD,357,2014-08-27-14-54-56,34,-1,United States,WA,1,1,2.0,No
+Katherine Lowe,358,2014-08-27-14-57-46,34,-1,United States,WA,-1,1,2.0,Yes
+Joseph Barber,359,2014-08-27-14-58-01,29,-1,United States,IN,-1,-1,1.5427,Yes
+Danielle Owens,360,2014-08-27-14-59-59,33,1,United States,WA,-1,-1,1.5427,No
+Robert Cuevas,361,2014-08-27-15-03-56,34,-1,Germany,,1,1,1.0,Yes
+Kayla Spencer,362,2014-08-27-15-04-41,26,-1,United States,OK,1,1,1.0,Yes
+Stephanie Long,363,2014-08-27-15-05-00,32,-1,United States,MI,1,1,1.0,No
+Stephanie Alexander,364,2014-08-27-15-05-21,329,-1,United States,OH,-1,1,3.0,Yes
+Eric Williams,365,2014-08-27-15-09-58,28,-1,United States,GA,1,1,2.0,No
+Andrew Miller,366,2014-08-27-15-11-30,35,-1,United States,CA,1,-1,1.5427,No
+James Campbell,367,2014-08-27-15-13-33,36,-1,United States,,1,1,3.0,No
+Marcus Martinez,368,2014-08-27-15-14-50,21,-1,United States,IN,1,1,1.0,No
+Stacy Martin,369,2014-08-27-15-15-29,21,-1,United Kingdom,,-1,1,2.0,No
+Brad Clark,370,2014-08-27-15-15-42,22,1,United States,WA,-1,-1,1.5427,No
+Tina Davis,371,2014-08-27-15-20-53,41,-1,United States,WA,1,1,3.0,No
+Amanda Watson DDS,372,2014-08-27-15-21-59,55,-1,United States,PA,1,1,1.0,No
+Terry Obrien,373,2014-08-27-15-22-20,32,1,United States,WA,-1,1,2.0,No
+Lisa Meyer,374,2014-08-27-15-22-26,21,1,United States,CA,1,1,1.0,No
+Isaiah Bradley Jr.,375,2014-08-27-15-22-43,45,-1,United States,MA,-1,1,0.0,Yes
+Chris Johnson,376,2014-08-27-15-22-45,27,1,United States,WA,-1,1,1.0,No
+Joshua King MD,377,2014-08-27-15-22-50,25,1,United States,WA,1,1,2.0,Yes
+Nicole Sanders,378,2014-08-27-15-22-52,34,1,United States,NY,1,1,1.0,No
+Angela Davis DDS,379,2014-08-27-15-23-06,26,1,United States,CA,1,1,0.0,No
+Pamela Clark,380,2014-08-27-15-23-07,41,-1,Canada,,-1,1,0.0,No
+Erica Scott,381,2014-08-27-15-23-19,27,-1,United States,CA,-1,1,1.0,No
+Anthony Proctor,382,2014-08-27-15-23-30,31,-1,United States,IN,1,1,2.0,Yes
+Julie Parker,383,2014-08-27-15-23-33,25,-1,Germany,,1,1,3.0,Yes
+Kenneth Kirk,384,2014-08-27-15-23-51,26,-1,United States,NV,-1,1,2.0,No
+Tiffany Fields,385,2014-08-27-15-23-51,27,1,United States,CO,1,1,1.0,Yes
+Megan Taylor,386,2014-08-27-15-23-54,42,-1,New Zealand,,-1,-1,0.0,No
+Justin Long,387,2014-08-27-15-24-22,29,0,United States,CA,1,1,2.0,Yes
+Christy Warren,388,2014-08-27-15-24-27,25,1,United States,CA,-1,1,2.0,No
+Daniel Castaneda,389,2014-08-27-15-24-28,33,1,Sweden,,1,1,1.0,No
+Kelsey Brock,390,2014-08-27-15-24-47,99999999999,0,Zimbabwe,,1,1,3.0,No
+Mark Franklin,391,2014-08-27-15-24-47,40,1,United States,PA,1,1,1.0,No
+Jeffrey Copeland,392,2014-08-27-15-24-49,31,-1,United States,SC,-1,-1,0.0,No
+Grant Hill,393,2014-08-27-15-24-55,26,-1,Canada,,1,1,3.0,Yes
+Heather Cook,394,2014-08-27-15-24-56,24,1,United States,TX,1,-1,1.5427,No
+Guy Noble,395,2014-08-27-15-25-03,29,-1,United States,TX,-1,-1,0.0,No
+Donna Wheeler,396,2014-08-27-15-25-09,48,-1,United Kingdom,,-1,-1,1.5427,No
+Joseph Byrd,397,2014-08-27-15-25-16,35,-1,United Kingdom,,-1,-1,2.0,No
+Jennifer Finley,398,2014-08-27-15-25-41,32,1,United States,AL,-1,-1,0.0,No
+Olivia Frost,399,2014-08-27-15-25-47,29,-1,Canada,,-1,1,2.0,No
+Leah Sanchez,400,2014-08-27-15-26-05,26,-1,United States,OR,1,1,3.0,No
+Brandi Lee,401,2014-08-27-15-26-37,28,-1,United States,NJ,1,1,2.0,No
+Brian Johnson,402,2014-08-27-15-26-40,23,-1,United States,CA,-1,-1,1.5427,No
+Amber Walker,403,2014-08-27-15-26-57,35,-1,United States,CA,1,1,2.0,No
+Amy Miller,404,2014-08-27-15-27-25,29,-1,Germany,,1,1,2.0,No
+William Stewart,405,2014-08-27-15-27-31,26,-1,United States,CA,1,-1,1.5427,No
+Connie Williams,406,2014-08-27-15-27-38,33,-1,United States,NH,1,1,0.0,Yes
+Mary Campbell,407,2014-08-27-15-27-39,33,-1,United States,CA,-1,-1,1.5427,Yes
+Betty Patrick,408,2014-08-27-15-28-34,22,-1,Brazil,,-1,-1,0.0,Yes
+Shawna Barker MD,409,2014-08-27-15-28-50,30,1,Spain,,1,-1,1.5427,No
+Caleb Garcia,410,2014-08-27-15-29-03,33,-1,United States,OH,1,1,3.0,Yes
+Jose Carter,411,2014-08-27-15-29-07,31,1,United States,OH,1,1,1.0,No
+Rodney Graham,412,2014-08-27-15-29-23,21,-1,United States,MA,1,-1,0.0,No
+Courtney Acevedo,413,2014-08-27-15-30-51,31,0,United Kingdom,,1,1,2.0,No
+George Moore,414,2014-08-27-15-31-10,26,1,United States,OK,-1,1,2.0,Yes
+Timothy Adams,415,2014-08-27-15-31-18,30,-1,United States,CA,1,-1,3.0,No
+Matthew Hayes,416,2014-08-27-15-31-20,30,0,Germany,,1,1,2.0,No
+Karen Hill,417,2014-08-27-15-31-31,23,-1,India,,-1,-1,1.5427,No
+Ryan Duran,418,2014-08-27-15-31-38,34,-1,Finland,,-1,-1,0.0,No
+Philip Rice,419,2014-08-27-15-31-40,55,-1,United States,ID,1,1,2.0,Yes
+John Bryant,420,2014-08-27-15-32-09,28,-1,Germany,,1,1,1.0,Yes
+Tracy Schmidt,421,2014-08-27-15-32-19,26,-1,Uruguay,,-1,-1,1.5427,Yes
+Brian Lee,422,2014-08-27-15-32-43,28,-1,New Zealand,,1,1,2.0,Yes
+Bradley Barber,423,2014-08-27-15-34-23,32,-1,United Kingdom,,1,1,2.0,No
+Ashley Dean,424,2014-08-27-15-34-31,28,1,United States,NY,-1,1,1.0,No
+Patrick Mendoza,425,2014-08-27-15-34-32,21,-1,United States,CA,-1,-1,2.0,No
+Charles Byrd,426,2014-08-27-15-35-21,24,-1,United States,TX,1,1,2.0,No
+David Clark,427,2014-08-27-15-35-37,26,1,United States,MD,-1,-1,1.5427,No
+Joy Murphy,428,2014-08-27-15-35-50,23,-1,United States,IN,-1,-1,1.5427,No
+Joseph Weiss,429,2014-08-27-15-36-13,24,1,United States,OR,-1,-1,1.5427,No
+Anne Smith,430,2014-08-27-15-36-41,28,-1,Canada,,-1,-1,0.0,Yes
+Donna Pollard,431,2014-08-27-15-38-07,24,1,United States,NY,1,1,1.0,No
+Roger Lindsey,432,2014-08-27-15-38-27,33,-1,United States,MS,-1,1,3.0,Yes
+Holly Green,433,2014-08-27-15-38-31,34,-1,United States,NJ,-1,-1,2.0,No
+Sheila Johnson,434,2014-08-27-15-38-32,27,1,United States,CA,-1,1,2.0,No
+Brittany Holmes,435,2014-08-27-15-38-37,28,-1,United States,TN,-1,-1,0.0,No
+Matthew Rivas,436,2014-08-27-15-39-31,26,-1,United States,WA,-1,-1,1.5427,No
+Sarah Bernard,437,2014-08-27-15-40-03,20,-1,Australia,,-1,-1,1.5427,Yes
+Benjamin Fisher,438,2014-08-27-15-43-17,23,1,United States,MA,-1,1,2.0,No
+Tricia Armstrong,439,2014-08-27-15-43-27,29,-1,United States,PA,1,1,1.0,Yes
+Lisa Grant,440,2014-08-27-15-43-30,26,-1,United Kingdom,,1,-1,2.0,No
+Kimberly Lee,441,2014-08-27-15-43-45,36,-1,United States,KY,-1,-1,1.0,Yes
+Savannah Miller,442,2014-08-27-15-44-16,41,-1,United States,PA,-1,1,2.0,No
+Jo Powell,443,2014-08-27-15-44-20,33,1,United States,MA,-1,-1,1.5427,Yes
+Sandra Mejia,444,2014-08-27-15-46-12,23,-1,Canada,,1,1,2.0,No
+Emily Nixon,445,2014-08-27-15-46-39,39,-1,United States,CA,1,-1,3.0,No
+Carolyn Johnston,446,2014-08-27-15-47-26,34,-1,United States,VT,1,-1,1.5427,No
+Jenny Ibarra,447,2014-08-27-15-47-33,26,1,United States,CA,-1,1,2.0,No
+Andrea Delgado,448,2014-08-27-15-50-26,24,-1,United States,AZ,-1,1,1.0,No
+Robert Barker,449,2014-08-27-15-51-36,37,-1,Canada,,1,1,1.0,No
+Lindsay Miller,450,2014-08-27-15-53-39,43,-1,United States,MA,1,1,3.0,Yes
+Anthony Ibarra,451,2014-08-27-15-53-59,40,0,United States,VA,1,-1,0.0,No
+Thomas Mcintyre,452,2014-08-27-15-54-45,30,-1,United States,WA,1,1,3.0,No
+Julie Hardy,453,2014-08-27-15-55-07,34,-1,United States,CA,-1,1,2.0,No
+Emily Miller,454,2014-08-27-15-55-07,27,-1,United States,OR,1,1,2.0,No
+Jesus Soto,455,2014-08-27-15-55-08,36,-1,United States,MI,-1,-1,2.0,No
+Nicholas Smith,456,2014-08-27-15-56-37,27,-1,Brazil,,-1,-1,1.0,No
+Kimberly Banks,457,2014-08-27-15-58-23,35,-1,Netherlands,,1,-1,0.0,No
+Randy Villegas,458,2014-08-27-15-59-41,32,-1,United Kingdom,,-1,-1,0.0,No
+Sarah Cisneros,459,2014-08-27-15-59-47,37,-1,United States,OR,-1,-1,1.5427,No
+Bethany Watkins,460,2014-08-27-16-00-16,29,-1,United Kingdom,,-1,-1,1.5427,No
+Heidi Baker,461,2014-08-27-16-01-39,33,1,United States,CA,-1,-1,0.0,No
+Alex Turner,462,2014-08-27-16-01-52,28,-1,United States,UT,-1,-1,2.0,Yes
+Vincent Velez,463,2014-08-27-16-02-16,26,1,United States,CA,1,-1,0.0,No
+Anita Manning,464,2014-08-27-16-03-20,27,-1,United States,TX,1,1,2.0,Yes
+Teresa Price,465,2014-08-27-16-04-01,38,-1,United Kingdom,,-1,1,2.0,Yes
+Elizabeth Fletcher,466,2014-08-27-16-06-46,57,-1,United States,CA,1,1,1.0,No
+Allen Taylor,467,2014-08-27-16-07-32,28,-1,United Kingdom,,-1,1,2.0,No
+Jonathan Gomez,468,2014-08-27-16-10-10,26,-1,France,,-1,-1,0.0,No
+Stephen Norris,469,2014-08-27-16-11-36,42,1,Netherlands,,-1,1,1.0,Yes
+Shannon Johnson,470,2014-08-27-16-13-31,31,-1,United States,OR,-1,1,2.0,Yes
+Aaron Case,471,2014-08-27-16-13-40,58,-1,United States,CA,-1,1,1.0,No
+Joshua Gallegos,472,2014-08-27-16-13-42,29,-1,United States,OH,-1,-1,2.0,No
+Phillip Hopkins,473,2014-08-27-16-14-04,39,1,United Kingdom,,-1,1,2.0,No
+David Brown,474,2014-08-27-16-14-43,34,-1,United States,OH,-1,-1,2.0,Yes
+Victoria Merritt,475,2014-08-27-16-15-26,57,-1,United States,CA,-1,1,2.0,No
+Kaitlyn Montgomery,476,2014-08-27-16-15-33,27,-1,Germany,,1,1,2.0,No
+Stephen Cherry,477,2014-08-27-16-16-40,23,-1,Germany,,1,1,3.0,Yes
+Caleb Watson,478,2014-08-27-16-16-51,18,-1,Finland,,-1,-1,1.5427,Yes
+Angela Watson,479,2014-08-27-16-17-05,30,1,United States,NY,-1,-1,1.5427,No
+Brandi Baldwin,480,2014-08-27-16-17-41,23,-1,United States,VA,-1,-1,0.0,No
+Tamara Miller,481,2014-08-27-16-18-44,43,-1,United States,CA,-1,1,2.0,No
+Tammy Jacobs,482,2014-08-27-16-19-05,18,1,United Kingdom,,1,1,2.0,Yes
+Brittney Mccall,483,2014-08-27-16-19-25,29,-1,United States,IL,-1,1,1.0,No
+Craig Taylor,484,2014-08-27-16-20-36,48,-1,United States,TX,-1,-1,0.0,No
+Lauren Ford,485,2014-08-27-16-20-40,43,-1,Germany,,-1,1,2.0,No
+Heidi Gonzalez,486,2014-08-27-16-21-11,28,1,United States,NY,1,1,2.0,No
+Lori Dennis,487,2014-08-27-16-21-24,30,-1,United States,CA,1,1,3.0,Yes
+Morgan Lopez,488,2014-08-27-16-21-54,26,-1,Israel,MD,-1,-1,2.0,No
+Marcus Smith,489,2014-08-27-16-21-55,33,-1,Italy,,-1,-1,0.0,No
+Jesse Thomas Jr.,490,2014-08-27-16-22-10,31,-1,United States,CA,-1,-1,1.5427,No
+Michelle Sweeney,491,2014-08-27-16-22-17,30,-1,United States,PA,-1,-1,1.0,No
+Chad Johnson,492,2014-08-27-16-23-14,27,-1,Israel,,-1,-1,1.5427,No
+Shane Waters,493,2014-08-27-16-25-26,24,1,United States,CA,1,1,2.0,Yes
+Laura Lewis,494,2014-08-27-16-26-03,25,-1,United States,WA,-1,-1,1.5427,No
+Steve Castro,495,2014-08-27-16-27-04,23,1,United States,NY,1,1,3.0,No
+Shawn Rogers,496,2014-08-27-16-27-47,36,-1,United States,TX,-1,1,2.0,No
+Christopher Liu,497,2014-08-27-16-28-10,25,1,United States,CA,1,1,3.0,Yes
+Susan Finley,498,2014-08-27-16-28-20,54,-1,United Kingdom,,-1,1,2.0,Yes
+Brian Flores,499,2014-08-27-16-29-05,34,-1,Netherlands,,-1,-1,1.0,No
+Sarah Merritt,500,2014-08-27-16-29-23,38,1,United States,AZ,-1,1,1.5427,No
+Christina Gates,501,2014-08-27-16-31-16,40,-1,Ireland,,1,-1,1.5427,No
+Daniel Thomas,502,2014-08-27-16-32-31,32,-1,United Kingdom,,-1,-1,1.5427,No
+Mary Andrews,503,2014-08-27-16-34-18,25,-1,Germany,,-1,-1,0.0,No
+Elizabeth Grant DDS,504,2014-08-27-16-35-02,35,1,United States,OH,-1,1,2.0,No
+Christie Maxwell,505,2014-08-27-16-36-57,46,-1,United States,CA,-1,1,2.0,No
+Nicole Wade,506,2014-08-27-16-39-00,42,-1,United States,KS,-1,-1,0.0,No
+Kim Russell,507,2014-08-27-16-39-01,32,-1,United Kingdom,,1,1,2.0,Yes
+Jason Gutierrez,508,2014-08-27-16-40-35,47,-1,United States,CA,1,1,2.0,No
+Mary Martin DDS,509,2014-08-27-16-42-00,22,-1,United States,CA,-1,-1,1.5427,No
+Gloria Miller,510,2014-08-27-16-42-55,33,1,United States,NY,-1,1,2.0,Yes
+Sarah Thomas,511,2014-08-27-16-47-48,25,1,United States,WA,-1,-1,2.0,No
+Michael Armstrong,512,2014-08-27-16-53-54,29,-1,United States,CA,-1,-1,1.5427,No
+Joseph Snyder,513,2014-08-27-16-55-04,39,-1,United States,WA,-1,-1,0.0,No
+Linda Freeman,514,2014-08-27-17-00-15,38,-1,United States,VA,1,1,2.0,No
+Cheryl Dougherty,515,2014-08-27-17-03-02,43,-1,United States,NC,-1,-1,1.5427,Yes
+Lindsey Bell,516,2014-08-27-17-04-29,46,-1,United States,OH,-1,1,1.0,Yes
+Nicholas Hood,517,2014-08-27-17-08-18,38,1,United States,PA,1,1,2.0,No
+Robert Hughes,518,2014-08-27-17-09-23,33,-1,Germany,,-1,1,2.0,No
+Kevin Williams,519,2014-08-27-17-10-56,34,-1,United Kingdom,,1,1,3.0,No
+Nicholas Young,520,2014-08-27-17-12-01,62,-1,United States,CA,-1,-1,0.0,No
+Jim Rogers,521,2014-08-27-17-14-36,23,1,United States,TX,-1,-1,1.5427,No
+Michael Molina Jr.,522,2014-08-27-17-15-25,35,-1,United States,AZ,-1,-1,1.5427,No
+Roy Vargas,523,2014-08-27-17-19-05,25,-1,Bosnia and Herzegovina,,1,-1,1.0,Yes
+Ryan Wright,524,2014-08-27-17-22-29,36,-1,United States,IL,1,1,2.0,Yes
+Jennifer Wong,525,2014-08-27-17-32-04,41,1,United States,,1,1,1.0,Yes
+Kristina Kim,526,2014-08-27-17-33-51,24,-1,Austria,,-1,-1,2.0,No
+Craig Johnson,527,2014-08-27-17-33-52,51,-1,New Zealand,,-1,1,2.0,Yes
+Victoria Mann,528,2014-08-27-17-33-52,29,-1,United States,NC,-1,1,2.0,No
+Jesus Garcia,529,2014-08-27-17-37-41,31,1,Canada,,1,1,2.0,Yes
+David Tucker,530,2014-08-27-17-39-58,27,-1,United Kingdom,,-1,-1,1.5427,No
+Robert Arellano,531,2014-08-27-17-41-44,31,-1,Australia,,-1,1,1.0,No
+Vincent Shannon,532,2014-08-27-17-42-49,27,1,Hungary,,1,-1,2.0,Yes
+Mark Fisher,533,2014-08-27-17-46-17,23,-1,Sweden,,-1,-1,1.0,No
+Steven Lee,534,2014-08-27-17-47-45,21,-1,Canada,,-1,-1,0.0,No
+Evan Pineda,535,2014-08-27-17-48-54,27,1,Australia,,1,1,2.0,No
+Kenneth Gordon,536,2014-08-27-17-49-21,39,-1,United States,WI,1,1,3.0,Yes
+Kevin Banks,537,2014-08-27-17-49-30,26,-1,United States,CA,1,1,0.0,No
+Annette Hernandez,538,2014-08-27-17-52-31,27,-1,United Kingdom,,-1,-1,0.0,No
+Cory Brown,539,2014-08-27-17-56-50,22,1,United States,CA,1,1,2.0,No
+Kyle Graham,540,2014-08-27-18-00-39,26,1,United States,MN,1,1,3.0,No
+Cory Williams,541,2014-08-27-18-02-32,31,1,United States,PA,1,1,1.0,No
+Michael Pham,542,2014-08-27-18-02-42,32,-1,United Kingdom,,-1,-1,0.0,No
+Beverly Gray,543,2014-08-27-18-12-55,28,1,United States,CA,1,1,3.0,Yes
+Brandi Ruiz,544,2014-08-27-18-13-38,28,0,United Kingdom,,1,1,1.0,No
+Jennifer Barber,545,2014-08-27-18-14-59,23,1,United Kingdom,,-1,-1,1.5427,No
+Carlos Lopez,546,2014-08-27-18-16-52,30,-1,United Kingdom,,-1,-1,0.0,Yes
+Sarah Chaney,547,2014-08-27-18-18-18,36,-1,United States,CA,1,1,2.0,No
+Steven Reed,548,2014-08-27-18-22-05,21,-1,United States,CA,1,-1,1.5427,No
+Brittany Rivera,549,2014-08-27-18-29-32,30,-1,Germany,,-1,-1,3.0,No
+Anne Greene,550,2014-08-27-18-39-43,25,1,United States,CA,1,-1,1.5427,No
+John Perez,551,2014-08-27-18-41-00,32,-1,New Zealand,,-1,1,2.0,No
+Jasmine Myers,552,2014-08-27-18-43-06,29,1,Canada,,-1,1,2.0,No
+Mary Chandler,553,2014-08-27-18-56-46,21,0,United Kingdom,,-1,1,2.0,No
+Shannon Woods,554,2014-08-27-18-59-44,27,1,New Zealand,,1,1,1.0,Yes
+Andrea Wiggins,555,2014-08-27-19-05-52,32,1,Canada,,-1,1,3.0,No
+Johnny Munoz,556,2014-08-27-19-08-31,34,-1,Australia,,-1,-1,2.0,No
+Brooke Hunt,557,2014-08-27-19-13-21,33,-1,United States,NY,-1,-1,1.5427,No
+Felicia Roberts,558,2014-08-27-19-13-27,22,-1,Netherlands,,1,1,2.0,Yes
+Barbara Taylor,559,2014-08-27-19-16-15,24,-1,United States,CA,-1,-1,1.5427,No
+Edward Lawson,560,2014-08-27-19-17-07,65,-1,United States,FL,-1,-1,1.5427,Yes
+Adam Miller,561,2014-08-27-19-25-42,27,-1,United States,OR,1,1,2.0,Yes
+Jason Stone,562,2014-08-27-19-27-25,33,-1,Australia,,-1,-1,0.0,No
+Mark Taylor,563,2014-08-27-19-28-35,36,-1,United States,CO,-1,1,1.0,No
+Lisa Caldwell,564,2014-08-27-19-34-26,40,-1,Canada,,-1,-1,0.0,No
+Janice Williams,565,2014-08-27-19-34-56,28,-1,United States,GA,-1,1,2.0,No
+Lauren Lowe,566,2014-08-27-19-38-44,39,-1,United States,OR,-1,1,2.0,No
+Benjamin Schneider,567,2014-08-27-19-41-28,32,-1,United States,CA,-1,1,2.0,No
+Reginald Avila,568,2014-08-27-19-45-36,31,-1,United States,CA,1,-1,2.0,No
+Christina Manning,569,2014-08-27-19-59-12,38,-1,United States,PA,1,1,2.0,No
+Kristi Armstrong,570,2014-08-27-20-13-06,23,-1,United States,CA,1,1,1.0,No
+Rebecca Smith,571,2014-08-27-20-17-52,42,-1,United States,CA,-1,1,3.0,No
+Jason Ewing,572,2014-08-27-20-33-33,27,1,United States,NY,-1,-1,2.0,No
+Christina Dennis,573,2014-08-27-20-48-54,26,1,United States,MA,1,1,2.0,No
+Tracey Weiss,574,2014-08-27-20-52-20,50,-1,United States,,-1,-1,0.0,Yes
+Felicia Lynn,575,2014-08-27-20-52-31,37,-1,United States,PA,1,-1,0.0,No
+Michael Burke,576,2014-08-27-20-53-22,23,-1,United States,RI,-1,-1,1.5427,No
+Ryan Silva,577,2014-08-27-20-55-48,33,-1,United States,MI,1,-1,2.0,Yes
+Teresa Mcconnell,578,2014-08-27-21-05-41,29,-1,Canada,,-1,-1,0.0,Yes
+Mr. Andrew Wright,579,2014-08-27-21-15-09,34,-1,United States,IL,1,1,2.0,Yes
+Tina Thompson,580,2014-08-27-21-17-31,41,-1,United States,CA,1,1,3.0,No
+Katherine Sanchez,581,2014-08-27-21-21-31,50,-1,United States,OR,1,-1,1.5427,Yes
+Christopher Evans,582,2014-08-27-21-35-24,29,-1,Canada,,-1,1,0.0,No
+Alice Floyd,583,2014-08-27-21-39-23,35,-1,United States,IN,-1,-1,0.0,No
+Randy Foster,584,2014-08-27-21-45-31,27,-1,Singapore,,-1,-1,2.0,Yes
+Ronald Scott,585,2014-08-27-21-54-29,40,1,United States,MA,-1,-1,0.0,No
+Cheryl Avila,586,2014-08-27-21-54-32,27,-1,Australia,,-1,1,3.0,Yes
+Alexander Villanueva,587,2014-08-27-21-55-28,29,1,United States,MI,-1,-1,0.0,No
+Sean Smith,588,2014-08-27-22-00-36,31,-1,United States,OH,1,1,2.0,No
+Timothy Park,589,2014-08-27-22-04-43,43,-1,United States,OH,-1,1,2.0,No
+Alex Ramirez,590,2014-08-27-22-04-47,34,-1,United States,NH,1,1,2.0,Yes
+Ronald Anderson,591,2014-08-27-22-06-14,29,-1,United States,OH,1,1,2.0,No
+Nicole Watson,592,2014-08-27-22-07-34,19,-1,Canada,,1,1,2.0,No
+Ashley Williams,593,2014-08-27-22-11-16,41,-1,United States,TN,1,1,2.0,No
+Shawn Taylor,594,2014-08-27-22-12-55,29,-1,United States,OR,1,-1,0.0,No
+Darlene Pham,595,2014-08-27-22-13-55,23,-1,United States,PA,-1,-1,1.0,No
+Michael Graves,596,2014-08-27-22-14-23,24,1,United States,,1,1,2.0,No
+Amy Walker,597,2014-08-27-22-14-46,31,-1,United States,NY,-1,-1,1.5427,Yes
+Krystal Blair,598,2014-08-27-22-21-48,43,-1,United States,WA,-1,-1,1.5427,Yes
+Sandra Perkins,599,2014-08-27-22-26-03,31,-1,United States,NY,1,1,1.0,No
+Ashley Martinez,600,2014-08-27-22-32-36,29,-1,United States,CA,1,-1,3.0,No
+Charles Tran,601,2014-08-27-22-35-40,35,-1,United States,TN,1,-1,1.5427,Yes
+Hannah Daniel,602,2014-08-27-22-36-34,33,-1,United States,WI,1,1,2.0,No
+Alejandro Jackson,603,2014-08-27-22-55-13,30,1,United States,WI,1,1,3.0,Yes
+Kristopher Schneider,604,2014-08-27-22-59-23,27,-1,United States,PA,-1,-1,1.5427,No
+Thomas Nielsen,605,2014-08-27-23-09-46,32,-1,United States,MI,-1,-1,2.0,No
+Diana Stewart,606,2014-08-27-23-10-16,50,-1,United States,WY,-1,-1,2.0,Yes
+Kayla Garcia,607,2014-08-27-23-10-23,24,-1,United States,KY,-1,-1,0.0,No
+Joy Brown,608,2014-08-27-23-14-58,27,-1,United States,NY,-1,-1,1.5427,No
+Katherine Clark,609,2014-08-27-23-30-52,27,-1,Australia,,-1,-1,0.0,Yes
+Donna Maldonado,610,2014-08-27-23-54-08,32,-1,United States,TX,-1,1,2.0,No
+George Marshall,611,2014-08-27-23-56-33,42,-1,United States,WI,-1,-1,1.0,Yes
+Becky Munoz,612,2014-08-27-23-57-16,37,-1,United States,WA,-1,-1,3.0,No
+Mitchell Gilbert,613,2014-08-27-23-59-59,30,-1,Singapore,,-1,-1,2.0,No
+Michael Brown,614,2014-08-28-0-02-36,29,-1,United States,WA,-1,-1,1.0,No
+Charles Warren,615,2014-08-28-0-05-34,30,-1,United States,GA,-1,1,3.0,Yes
+Mary Hernandez,616,2014-08-28-0-17-24,35,-1,United States,MI,-1,-1,0.0,No
+Alexis Hill,617,2014-08-28-0-43-40,35,-1,United States,MD,1,1,1.0,Yes
+Ann Wilson,618,2014-08-28-0-47-55,38,-1,Netherlands,,1,-1,3.0,Yes
+Brian Miller,619,2014-08-28-1-04-45,22,-1,United Kingdom,,1,1,2.0,No
+Lisa Campos,620,2014-08-28-1-14-11,24,-1,Germany,,1,-1,2.0,No
+Deanna Beck,621,2014-08-28-1-19-34,22,-1,Netherlands,,-1,-1,0.0,No
+Tara Russell,622,2014-08-28-1-30-12,31,1,United States,WA,-1,1,3.0,Yes
+Christopher Nguyen,623,2014-08-28-1-38-53,23,1,United States,CA,1,1,2.0,No
+Robert Jordan,624,2014-08-28-1-41-17,31,1,United States,OR,1,1,2.0,No
+Stephen Webb,625,2014-08-28-1-56-43,28,1,United States,CA,1,1,1.0,No
+Gregory Reed,626,2014-08-28-2-15-08,37,-1,Canada,,1,1,2.0,No
+Mark Smith,627,2014-08-28-2-17-42,34,-1,United States,CA,1,1,2.0,No
+Gilbert Mcfarland,628,2014-08-28-2-19-29,32,-1,Canada,,-1,-1,2.0,Yes
+Diane Cowan,629,2014-08-28-2-30-00,28,-1,United States,MI,1,1,2.0,Yes
+Laura Jackson,630,2014-08-28-2-32-11,24,1,United Kingdom,,-1,1,2.0,No
+Jim Sanchez,631,2014-08-28-2-41-47,56,-1,United States,MA,1,1,1.0,No
+Jamie Lee,632,2014-08-28-2-46-56,31,-1,Germany,,-1,-1,2.0,Yes
+Deborah Clayton,633,2014-08-28-2-49-34,34,1,United States,CA,-1,1,2.0,Yes
+David Rivers,634,2014-08-28-2-52-45,35,-1,Germany,,-1,1,1.0,No
+Jessica Weber,635,2014-08-28-2-54-44,28,-1,Germany,,-1,-1,0.0,No
+Jason Moreno,636,2014-08-28-3-05-52,36,-1,Poland,,1,1,3.0,No
+Nicole Hood,637,2014-08-28-3-06-14,30,-1,United Kingdom,,-1,1,3.0,No
+Michelle Williams,638,2014-08-28-3-13-10,35,-1,United States,,-1,-1,1.5427,Yes
+Paul Payne,639,2014-08-28-3-13-20,49,-1,Japan,,1,1,2.0,Yes
+Edward Acosta,640,2014-08-28-3-15-01,36,-1,Germany,,-1,-1,1.5427,No
+Suzanne Luna,641,2014-08-28-3-16-53,35,-1,Germany,,-1,-1,1.5427,No
+Jordan Orr,642,2014-08-28-3-29-19,29,1,Australia,,1,1,2.0,No
+Debra Green,643,2014-08-28-3-36-10,57,-1,United States,CA,-1,-1,0.0,No
+Steven Nelson,644,2014-08-28-3-42-58,31,1,Belgium,,1,1,1.0,No
+Timothy Elliott MD,645,2014-08-28-3-47-30,37,-1,Ireland,,-1,-1,0.0,No
+Stephanie Foley,646,2014-08-28-3-49-56,25,-1,Ireland,,1,1,2.0,No
+Maria Silva,647,2014-08-28-3-52-05,30,-1,Australia,,-1,-1,2.0,No
+Jennifer Butler,648,2014-08-28-4-00-30,26,1,Australia,,1,-1,2.0,No
+Kathy Johnson,649,2014-08-28-4-02-47,22,1,Netherlands,,-1,-1,3.0,No
+Juan Hale,650,2014-08-28-4-07-34,39,-1,United States,FL,-1,-1,1.0,Yes
+Ryan Chambers,651,2014-08-28-4-09-14,29,-1,United Kingdom,,1,1,0.0,No
+Samuel Hill,652,2014-08-28-4-11-27,54,-1,United Kingdom,,1,1,2.0,Yes
+Mindy Lane,653,2014-08-28-4-16-30,34,1,Australia,,1,-1,0.0,No
+Dr. Justin Summers,654,2014-08-28-4-23-01,32,-1,United States,WA,-1,1,0.0,No
+Allison Haynes,655,2014-08-28-4-24-03,25,-1,Nigeria,,-1,-1,1.5427,No
+Sarah Ball,656,2014-08-28-4-30-08,29,-1,Poland,,-1,-1,1.0,No
+Joseph Orozco,657,2014-08-28-4-34-32,32,-1,Germany,,-1,-1,0.0,Yes
+Mrs. Jodi Dalton DVM,658,2014-08-28-4-37-54,30,-1,United Kingdom,,1,1,2.0,No
+Juan Thompson,659,2014-08-28-4-53-52,31,-1,Germany,,-1,-1,1.5427,No
+Frank White,660,2014-08-28-5-05-32,20,1,Switzerland,,-1,-1,1.0,No
+Christina Mcdowell,661,2014-08-28-5-12-15,27,-1,United Kingdom,,-1,-1,0.0,No
+Heather Williams,662,2014-08-28-5-14-28,32,-1,United States,CA,-1,-1,0.0,No
+Maureen Haley,663,2014-08-28-6-02-05,26,-1,Ireland,,-1,-1,0.0,Yes
+Jennifer Tucker,664,2014-08-28-6-05-18,30,-1,Italy,,-1,-1,2.0,No
+Alan Andrews,665,2014-08-28-6-10-25,30,-1,Ireland,,-1,1,2.0,Yes
+David Mejia,666,2014-08-28-6-11-06,22,-1,India,,-1,-1,1.5427,Yes
+Molly Joseph,667,2014-08-28-6-27-59,24,-1,Ireland,,-1,-1,1.5427,No
+Brian Olsen,668,2014-08-28-6-30-18,26,-1,Netherlands,,-1,-1,0.0,No
+Courtney Johnson,669,2014-08-28-7-01-30,43,-1,France,,-1,-1,1.5427,No
+Ray Andersen,670,2014-08-28-7-03-00,26,-1,Russia,,-1,-1,0.0,No
+Donald Davis,671,2014-08-28-7-03-03,23,-1,United States,NC,1,-1,2.0,No
+Chad Lewis,672,2014-08-28-7-12-03,26,-1,Canada,,-1,-1,1.5427,Yes
+Cathy White,673,2014-08-28-8-00-40,26,1,Israel,,1,-1,0.0,No
+Heather Scott,674,2014-08-28-8-06-43,35,-1,Canada,,1,-1,2.0,No
+Karen Lopez,675,2014-08-28-8-18-06,28,-1,United States,IL,-1,1,2.0,Yes
+Dustin Clay,676,2014-08-28-8-23-11,22,-1,India,,-1,-1,1.5427,No
+Allison Cox,677,2014-08-28-8-39-49,29,1,United States,OH,1,1,1.0,No
+Richard Smith,678,2014-08-28-8-40-55,29,-1,Germany,,-1,-1,1.5427,No
+Matthew Ramos,679,2014-08-28-8-43-23,45,-1,United States,VA,-1,1,3.0,Yes
+Crystal Haynes,680,2014-08-28-8-43-57,33,-1,Bulgaria,,-1,1,1.0,Yes
+Mr. Dean Webb MD,681,2014-08-28-8-43-58,38,-1,United States,MN,-1,1,2.0,No
+Karen Ballard,682,2014-08-28-9-02-16,19,0,United States,MO,1,1,3.0,No
+Sonya Ortiz,683,2014-08-28-9-09-30,29,1,Canada,,-1,1,1.0,Yes
+Richard Hart,684,2014-08-28-9-16-21,21,1,United Kingdom,,-1,-1,1.5427,No
+Kerry Thomas,685,2014-08-28-9-18-13,23,1,India,,1,1,2.0,No
+Max Hill,686,2014-08-28-9-40-42,33,1,United States,NC,1,1,1.0,No
+Patrick Merritt,687,2014-08-28-9-53-42,49,-1,United States,NY,1,1,2.0,No
+Jonathan Cummings MD,688,2014-08-28-9-53-57,28,-1,United States,NM,-1,-1,1.5427,Yes
+Timothy Patton,689,2014-08-28-9-54-21,27,1,United Kingdom,,-1,1,2.0,Yes
+Taylor Lopez,690,2014-08-28-9-54-38,23,-1,Canada,,-1,1,2.0,No
+Mitchell Cordova,691,2014-08-28-9-54-47,29,-1,Netherlands,,-1,-1,0.0,Yes
+Amanda Todd,692,2014-08-28-9-54-51,30,-1,Germany,,-1,-1,1.5427,No
+Lauren Cross,693,2014-08-28-9-55-14,28,1,Canada,,-1,-1,1.5427,No
+Daniel Robertson,694,2014-08-28-9-56-03,32,-1,United Kingdom,,-1,-1,1.5427,No
+Jackson Williamson,695,2014-08-28-9-56-04,32,-1,United Kingdom,,-1,1,2.0,No
+Mark Valdez,696,2014-08-28-9-56-10,37,-1,France,,-1,-1,1.5427,No
+Andrea Thomas,697,2014-08-28-9-56-21,39,1,United States,TX,-1,-1,1.5427,Yes
+Tamara Santana,698,2014-08-28-9-56-30,31,-1,France,,-1,-1,1.5427,No
+Vincent Potts,699,2014-08-28-9-57-02,29,-1,United States,SC,-1,-1,1.5427,No
+Danielle Hamilton MD,700,2014-08-28-9-57-10,30,-1,United States,FL,-1,-1,1.5427,No
+Jill Barker,701,2014-08-28-9-57-25,33,-1,United States,WA,1,1,1.0,Yes
+Lori Rosales,702,2014-08-28-9-58-08,37,-1,United States,CA,1,1,2.0,No
+Scott Roach,703,2014-08-28-9-59-39,23,-1,United States,OH,-1,1,3.0,No
+Ryan Dalton,704,2014-08-28-9-59-39,43,-1,United States,TN,1,1,2.0,No
+Donna Smith,705,2014-08-28-10-00-48,32,-1,United Kingdom,,-1,1,1.0,No
+Jessica Owens,706,2014-08-28-10-01-15,26,-1,United States,NY,-1,-1,0.0,No
+Michael Wolf,707,2014-08-28-10-01-31,32,-1,United States,NY,-1,1,2.0,Yes
+Meredith Jordan,708,2014-08-28-10-02-09,37,1,United States,MO,-1,-1,1.5427,Yes
+Sydney Hunter,709,2014-08-28-10-02-23,29,-1,United States,NY,-1,1,3.0,No
+Keith Martinez,710,2014-08-28-10-02-45,34,-1,United Kingdom,,-1,-1,1.5427,No
+Elizabeth Jones,711,2014-08-28-10-04-34,27,-1,France,,-1,-1,1.5427,No
+Vanessa Wilkinson,712,2014-08-28-10-04-41,30,-1,United States,TN,1,-1,0.0,No
+Sharon Benjamin,713,2014-08-28-10-05-43,29,-1,United States,CO,-1,-1,0.0,No
+Megan Doyle,714,2014-08-28-10-07-37,32,-1,United States,PA,1,1,2.0,Yes
+John Meadows,715,2014-08-28-10-07-53,-1726,-1,United Kingdom,,-1,1,2.0,No
+Emily Morse,716,2014-08-28-10-08-19,25,-1,Germany,,-1,-1,1.5427,No
+Anna Durham,717,2014-08-28-10-08-34,37,-1,United States,NY,-1,-1,1.5427,Yes
+Paul Miller,718,2014-08-28-10-10-29,29,-1,Netherlands,,1,-1,1.5427,No
+Stephen Velasquez,719,2014-08-28-10-11-52,27,-1,United States,MN,-1,-1,1.5427,No
+Tracy Coleman,720,2014-08-28-10-13-44,33,-1,United Kingdom,,-1,-1,1.5427,No
+Megan Romero DVM,721,2014-08-28-10-15-52,30,-1,Canada,,1,1,2.0,No
+Sarah Miller,722,2014-08-28-10-16-55,29,-1,Canada,,-1,-1,1.5427,Yes
+Cynthia Martinez,723,2014-08-28-10-17-19,25,-1,United States,MO,1,1,0.0,Yes
+Meredith Maldonado,724,2014-08-28-10-18-34,33,-1,United States,WY,1,1,2.0,No
+Danny Velez,725,2014-08-28-10-18-46,31,-1,South Africa,,-1,-1,0.0,Yes
+Lynn Good,726,2014-08-28-10-20-37,21,-1,Germany,,-1,-1,1.0,Yes
+Dr. Mario Garcia,727,2014-08-28-10-22-06,30,-1,Switzerland,,1,1,2.0,No
+Dylan Jacobs,728,2014-08-28-10-24-19,29,-1,United States,MN,-1,-1,1.5427,No
+Betty Diaz,729,2014-08-28-10-25-39,43,-1,Croatia,,-1,1,2.0,Yes
+Aaron Hodge,730,2014-08-28-10-29-47,37,-1,United Kingdom,,-1,1,3.0,No
+Kathleen Harris,731,2014-08-28-10-30-04,24,-1,France,,-1,-1,1.5427,No
+Wesley Marshall,732,2014-08-28-10-30-44,29,-1,United States,MD,-1,-1,1.5427,Yes
+Olivia Miller,733,2014-08-28-10-34-01,31,-1,United States,KY,-1,-1,1.5427,No
+Adam Aguilar,734,2014-08-28-10-35-55,5,-1,United States,OH,-1,-1,1.5427,No
+Michael Medina,735,2014-08-28-10-42-09,33,-1,United Kingdom,,-1,-1,0.0,No
+Christy Reid,736,2014-08-28-10-45-21,43,-1,United States,NY,-1,-1,1.5427,No
+David Ferguson,737,2014-08-28-10-47-12,33,-1,United Kingdom,,-1,1,2.0,No
+Victor Bernard,738,2014-08-28-10-51-08,27,-1,United Kingdom,,-1,-1,1.5427,No
+Kevin Edwards,739,2014-08-28-10-52-33,36,-1,United States,TN,1,1,2.0,Yes
+Cheyenne Williams,740,2014-08-28-10-54-31,37,-1,Australia,,1,1,2.0,No
+Eric Lucas,741,2014-08-28-10-57-23,32,-1,Belgium,,-1,-1,1.5427,No
+Adam Tate,742,2014-08-28-11-02-41,39,-1,United Kingdom,,-1,1,2.0,No
+Manuel Cook DVM,743,2014-08-28-11-04-00,31,-1,United States,TX,1,1,2.0,No
+Peggy Conrad,744,2014-08-28-11-04-17,36,-1,United States,OH,-1,1,2.0,Yes
+Robert Haas,745,2014-08-28-11-07-23,30,-1,United States,TX,-1,1,2.0,Yes
+Ryan Cowan,746,2014-08-28-11-09-03,28,-1,Canada,,-1,-1,1.5427,No
+Teresa Carter,747,2014-08-28-11-10-53,32,-1,Italy,,-1,-1,1.5427,No
+Alexis Farrell,748,2014-08-28-11-14-21,35,-1,United States,CA,1,1,1.0,No
+Christopher Flores,749,2014-08-28-11-15-42,19,-1,Canada,,-1,1,2.0,No
+Roger Ruiz,750,2014-08-28-11-19-35,33,-1,Norway,,1,-1,1.5427,No
+Stephanie Dickson,751,2014-08-28-11-20-14,42,-1,Germany,,-1,-1,1.5427,Yes
+Edwin Maynard,752,2014-08-28-11-21-17,37,-1,United States,MI,1,1,2.0,No
+Gwendolyn Atkinson,753,2014-08-28-11-21-48,40,-1,Thailand,,-1,-1,0.0,No
+Ann Johnson,754,2014-08-28-11-22-04,36,-1,United States,CA,-1,-1,0.0,No
+Lisa Luna,755,2014-08-28-11-26-15,29,1,United States,OR,1,1,2.0,Yes
+Thomas Garcia,756,2014-08-28-11-27-56,38,1,United States,NC,1,1,2.0,No
+Steven Smith,757,2014-08-28-11-29-20,26,-1,United States,CA,1,1,2.0,No
+Bryan Marshall,758,2014-08-28-11-32-37,34,-1,Germany,,-1,-1,1.0,No
+Bobby Mooney,759,2014-08-28-11-34-36,21,-1,United States,IL,-1,1,3.0,No
+Scott Jones,760,2014-08-28-11-36-48,31,-1,Canada,,1,-1,2.0,Yes
+Pamela Davis,761,2014-08-28-11-38-30,37,1,United States,CA,1,1,1.0,No
+Zachary Stewart,762,2014-08-28-11-40-11,37,-1,Ireland,,1,1,2.0,No
+Hector Johnson DVM,763,2014-08-28-11-44-43,38,-1,Ireland,,1,1,2.0,No
+Jessica Hill,764,2014-08-28-11-47-35,27,1,United States,CA,-1,1,2.0,No
+Emily Patterson,765,2014-08-28-11-48-12,39,-1,Netherlands,,-1,-1,1.5427,No
+Thomas Meyers,766,2014-08-28-11-50-06,33,1,United States,AZ,1,1,2.0,No
+Vincent Davis,767,2014-08-28-11-50-28,27,-1,United Kingdom,,-1,-1,0.0,No
+Dr. Justin Yang,768,2014-08-28-11-54-23,36,1,United States,CA,-1,1,0.0,Yes
+Veronica Cruz,769,2014-08-28-11-58-21,28,-1,United Kingdom,,-1,-1,0.0,No
+Adam Cooper,770,2014-08-28-11-59-23,39,-1,United Kingdom,,-1,1,2.0,No
+Valerie Lamb,771,2014-08-28-12-02-59,33,-1,United States,VA,1,1,2.0,Yes
+Daniel Forbes,772,2014-08-28-12-05-41,32,-1,United Kingdom,,-1,-1,1.5427,No
+Jesus Perez,773,2014-08-28-12-06-55,28,-1,United Kingdom,,-1,-1,1.5427,No
+Ann Walker,774,2014-08-28-12-07-28,37,-1,United Kingdom,,1,1,1.0,No
+Patricia Butler,775,2014-08-28-12-08-30,39,-1,Canada,,-1,1,2.0,No
+Adrienne Russo,776,2014-08-28-12-09-18,43,-1,United States,VA,-1,-1,2.0,Yes
+Samuel Wilkerson,777,2014-08-28-12-10-08,32,0,United Kingdom,,-1,1,2.0,No
+John Wilson,778,2014-08-28-12-10-42,27,1,United States,WA,-1,-1,1.5427,No
+Emily Nelson,779,2014-08-28-12-12-49,31,1,United Kingdom,,-1,-1,1.5427,No
+Kimberly Gillespie,780,2014-08-28-12-15-08,43,-1,United Kingdom,,-1,1,0.0,No
+Alex Fields,781,2014-08-28-12-19-34,33,-1,United States,WI,-1,1,2.0,Yes
+Jacob Dawson,782,2014-08-28-12-19-42,34,-1,United Kingdom,,1,1,2.0,No
+Doris Johnson,783,2014-08-28-12-22-14,33,-1,United States,CA,-1,-1,1.5427,No
+Mary Smith,784,2014-08-28-12-23-37,25,-1,United States,CA,-1,-1,1.5427,No
+Patrick Martinez,785,2014-08-28-12-30-20,25,-1,United States,NE,1,1,2.0,No
+Larry Foster,786,2014-08-28-12-40-46,32,-1,United Kingdom,,1,-1,1.5427,No
+Brittany Butler,787,2014-08-28-12-42-12,25,-1,United States,CO,1,1,2.0,No
+Walter Bryan,788,2014-08-28-12-42-30,37,-1,Netherlands,,-1,-1,1.5427,Yes
+Linda Ruiz,789,2014-08-28-12-44-55,39,-1,Switzerland,,-1,1,0.0,No
+Sarah Mcknight,790,2014-08-28-12-53-21,29,-1,United Kingdom,,-1,-1,1.0,No
+Tammy Rodriguez,791,2014-08-28-13-01-26,33,-1,United States,NY,-1,1,2.0,No
+Patrick Garcia,792,2014-08-28-13-04-30,37,1,United States,TX,-1,1,3.0,Yes
+Brianna Miller,793,2014-08-28-13-08-36,35,1,United States,LA,-1,1,2.0,No
+John Johnson,794,2014-08-28-13-11-05,22,1,United States,WA,1,1,2.0,No
+Scott Crosby,795,2014-08-28-13-17-40,38,-1,United States,MI,-1,-1,0.0,No
+Keith Beck,796,2014-08-28-13-26-17,32,1,United States,CA,1,1,3.0,No
+Jessica Doyle,797,2014-08-28-13-32-37,28,-1,Brazil,,-1,-1,1.5427,No
+Katherine Stanley,798,2014-08-28-13-34-57,27,-1,Switzerland,,1,-1,1.5427,No
+Elizabeth Hicks,799,2014-08-28-13-35-25,35,1,United States,CA,-1,1,2.0,Yes
+Amanda Little,800,2014-08-28-13-39-12,29,-1,United States,MD,-1,-1,0.0,No
+Jack Mcmahon,801,2014-08-28-13-39-40,23,-1,United States,CA,1,1,2.0,No
+Mary Miranda,802,2014-08-28-13-40-08,39,-1,United States,CT,-1,-1,1.5427,Yes
+Christopher Le,803,2014-08-28-13-41-51,30,1,United States,CA,-1,-1,1.5427,No
+Jacob Kelley,804,2014-08-28-13-47-37,32,-1,United Kingdom,,-1,-1,1.5427,No
+Danielle Diaz,805,2014-08-28-13-47-57,28,0,United States,CA,-1,1,2.0,No
+Aaron Bell,806,2014-08-28-13-48-30,40,1,United States,WA,1,1,2.0,No
+Renee Flores,807,2014-08-28-13-54-47,36,1,United States,CA,1,-1,1.5427,No
+Roy Torres,808,2014-08-28-13-57-01,27,-1,United States,IN,-1,-1,1.5427,Yes
+Cassandra Salinas,809,2014-08-28-14-00-02,41,-1,United States,TX,1,-1,2.0,No
+Caitlin Chase,810,2014-08-28-14-01-56,29,-1,United Kingdom,,-1,-1,0.0,No
+Brittany Knox,811,2014-08-28-14-02-07,29,-1,United Kingdom,,-1,1,2.0,No
+Cindy Dixon,812,2014-08-28-14-04-54,35,-1,United States,MO,-1,1,3.0,No
+Jose Barton,813,2014-08-28-14-12-58,28,-1,United States,NV,-1,1,0.0,Yes
+Pamela Stevens,814,2014-08-28-14-15-02,36,1,United Kingdom,,-1,-1,2.0,Yes
+Paula Mann,815,2014-08-28-14-31-00,39,1,United States,WA,-1,-1,2.0,No
+Sara Long,816,2014-08-28-14-38-50,39,-1,United States,FL,1,1,2.0,No
+Shawn Steele,817,2014-08-28-14-41-47,44,-1,United States,,1,1,2.0,Yes
+Daniel Andersen,818,2014-08-28-14-46-08,26,0,Germany,,-1,1,2.0,Yes
+Luis Flores,819,2014-08-28-14-51-46,35,-1,Denmark,,1,1,3.0,No
+Kelly Brown,820,2014-08-28-14-52-46,40,1,United States,WA,1,1,2.0,No
+Edwin Fleming,821,2014-08-28-14-53-02,35,-1,Denmark,,1,1,3.0,No
+Michael Wood,822,2014-08-28-14-53-32,38,-1,United States,IL,-1,-1,0.0,Yes
+Laura Gutierrez,823,2014-08-28-14-57-10,34,-1,United States,FL,-1,-1,1.5427,Yes
+Lindsey Fox,824,2014-08-28-15-01-46,43,-1,United States,MA,-1,-1,1.5427,No
+Craig Crosby,825,2014-08-28-15-25-39,48,1,United States,CA,1,-1,3.0,No
+Ana Flores,826,2014-08-28-15-32-03,20,-1,United States,WA,-1,-1,0.0,No
+Susan Walker,827,2014-08-28-15-37-04,40,-1,United States,MI,-1,-1,2.0,Yes
+Chris Briggs,828,2014-08-28-15-40-32,29,1,United Kingdom,,-1,1,1.0,No
+Edward Clark,829,2014-08-28-15-43-37,35,-1,United States,MI,1,1,2.0,No
+Nicholas Osborne,830,2014-08-28-15-48-12,29,-1,United States,WI,1,-1,2.0,Yes
+Katie Garcia,831,2014-08-28-15-50-12,40,-1,United States,CA,-1,-1,0.0,No
+Sabrina Lopez,832,2014-08-28-15-50-44,29,-1,Sweden,,-1,1,1.0,No
+Carlos Chapman,833,2014-08-28-15-54-35,29,1,United States,CA,1,1,1.0,No
+Robert Garcia DVM,834,2014-08-28-15-56-47,34,-1,United States,TX,-1,1,2.0,No
+Gregory Miller,835,2014-08-28-16-09-35,44,-1,United Kingdom,,1,1,2.0,No
+Victoria Shelton,836,2014-08-28-16-17-09,24,1,United States,NY,1,1,3.0,No
+Robert Nash,837,2014-08-28-16-31-00,47,1,United States,PA,-1,-1,1.5427,Yes
+Mary Davis,838,2014-08-28-16-42-49,43,-1,United Kingdom,,1,-1,1.5427,No
+Keith Graves,839,2014-08-28-16-52-23,36,-1,United States,PA,-1,-1,1.0,No
+Alexis Yu,840,2014-08-28-16-52-34,43,-1,United States,GA,-1,1,2.0,No
+Matthew Velazquez,841,2014-08-28-16-52-34,36,-1,United Kingdom,,-1,-1,2.0,Yes
+David Clements,842,2014-08-28-16-54-49,31,1,United States,NY,1,1,2.0,No
+Sherry Forbes,843,2014-08-28-16-55-07,35,-1,United States,CA,-1,-1,2.0,No
+Susan Rodgers,844,2014-08-28-16-55-31,33,-1,United States,TN,1,-1,1.5427,No
+Zachary Green,845,2014-08-28-16-56-26,37,-1,Italy,,-1,-1,2.0,No
+Carolyn Ortega,846,2014-08-28-16-56-57,34,-1,United States,TN,-1,1,2.0,No
+Mary Gordon,847,2014-08-28-16-56-58,36,-1,Netherlands,,-1,1,2.0,No
+Lauren Cuevas,848,2014-08-28-16-57-07,40,-1,United States,TN,1,1,2.0,Yes
+Brianna Rivera,849,2014-08-28-16-57-46,40,-1,United States,IL,-1,-1,1.0,No
+Lynn Huerta,850,2014-08-28-16-57-49,42,-1,United States,WI,-1,1,2.0,Yes
+Amanda Turner,851,2014-08-28-16-58-33,23,-1,United States,KY,1,-1,1.5427,Yes
+Dr. Leslie Rogers MD,852,2014-08-28-16-58-33,21,-1,United Kingdom,,1,-1,0.0,No
+David Cantrell,853,2014-08-28-16-58-50,26,-1,Canada,,-1,-1,2.0,Yes
+Lawrence Young,854,2014-08-28-17-01-06,31,-1,United States,,1,-1,1.5427,No
+Jennifer Baker,855,2014-08-28-17-01-21,25,-1,United States,CA,1,-1,1.5427,No
+John Schroeder,856,2014-08-28-17-01-25,51,-1,United States,MN,-1,-1,0.0,Yes
+Stephanie Erickson MD,857,2014-08-28-17-02-27,24,-1,United States,TN,-1,-1,1.5427,No
+Ronnie Mcgrath,858,2014-08-28-17-02-29,33,-1,United States,MN,-1,-1,1.5427,No
+Angela Collins,859,2014-08-28-17-02-56,32,-1,United Kingdom,,1,1,1.0,No
+Bryan Wagner,860,2014-08-28-17-02-44,32,-1,United Kingdom,,1,1,1.0,No
+Ashley Rice,861,2014-08-28-17-03-42,26,-1,United Kingdom,,-1,1,1.0,Yes
+Kerry Olson,862,2014-08-28-17-07-11,23,-1,United States,IL,-1,-1,0.0,No
+Scott Martinez,863,2014-08-28-17-07-28,33,-1,United States,TN,1,1,3.0,Yes
+Douglas Smith,864,2014-08-28-17-07-39,46,-1,United States,IL,-1,1,1.0,No
+Shannon Martinez,865,2014-08-28-17-08-16,34,-1,United Kingdom,,-1,-1,1.5427,Yes
+Melissa Tate,866,2014-08-28-17-09-03,35,-1,United States,DC,1,1,2.0,No
+Jeffrey Sparks,867,2014-08-28-17-10-00,39,-1,United States,KS,-1,-1,1.5427,Yes
+Robert Williams,868,2014-08-28-17-10-04,32,-1,Germany,,-1,-1,2.0,Yes
+Nicole Bowen,869,2014-08-28-17-10-08,43,-1,Mexico,,-1,-1,1.5427,Yes
+Karl Mason,870,2014-08-28-17-11-48,56,-1,United States,CA,-1,1,1.0,Yes
+Ryan Rosales,871,2014-08-28-17-12-30,32,1,United Kingdom,,1,1,2.0,No
+Bryan Spencer,872,2014-08-28-17-14-31,41,-1,United Kingdom,,-1,-1,1.5427,No
+Peter Richardson,873,2014-08-28-17-16-53,39,-1,United States,TN,-1,-1,1.5427,Yes
+Jamie Nelson,874,2014-08-28-17-19-05,37,-1,United States,OK,1,-1,1.5427,No
+Troy Willis,875,2014-08-28-17-19-27,30,-1,United States,CA,1,1,2.0,Yes
+Lori Curtis,876,2014-08-28-17-19-53,31,-1,United States,TN,-1,-1,1.5427,No
+Steven Todd,877,2014-08-28-17-20-23,29,-1,United States,TX,-1,-1,1.5427,No
+William Gonzalez,878,2014-08-28-17-20-41,23,1,United Kingdom,,1,-1,0.0,No
+Thomas Smith,879,2014-08-28-17-21-01,31,-1,United States,CO,-1,1,0.0,No
+Gail Mckenzie,880,2014-08-28-17-21-43,29,-1,United States,TN,1,1,2.0,No
+Douglas Simmons,881,2014-08-28-17-22-18,30,-1,United States,GA,-1,-1,0.0,Yes
+Matthew Wolf,882,2014-08-28-17-22-53,37,-1,United States,TN,-1,-1,0.0,Yes
+Mr. Gary Conner,883,2014-08-28-17-23-19,36,-1,United States,VA,-1,-1,0.0,No
+Gregory King,884,2014-08-28-17-27-03,35,-1,United States,TN,1,1,2.0,Yes
+Julia Evans,885,2014-08-28-17-27-47,41,-1,United States,DC,1,-1,0.0,Yes
+Erika Barnes MD,886,2014-08-28-17-28-46,31,-1,United Kingdom,,-1,1,1.0,No
+Ryan Powell,887,2014-08-28-17-28-58,38,-1,United Kingdom,,1,-1,1.5427,No
+Erica Glass,888,2014-08-28-17-31-06,26,-1,India,,-1,-1,1.5427,No
+Arthur Taylor,889,2014-08-28-17-33-05,39,-1,United States,TN,1,-1,2.0,No
+Zachary Thomas,890,2014-08-28-17-33-20,42,-1,United States,VA,1,-1,2.0,Yes
+Stephen Martin,891,2014-08-28-17-34-30,32,-1,United States,TN,1,1,1.0,Yes
+Stephanie Olson,892,2014-08-28-17-35-14,29,-1,United States,TN,1,-1,1.5427,No
+Kevin Nixon,893,2014-08-28-17-36-48,30,-1,United States,TN,1,-1,0.0,No
+Megan Steele,894,2014-08-28-17-39-06,40,-1,United States,TN,1,1,3.0,Yes
+Zachary Vasquez,895,2014-08-28-17-45-21,51,-1,United States,TN,-1,-1,1.5427,No
+Mr. Robert Foster,896,2014-08-28-17-46-37,33,-1,United States,IN,-1,-1,0.0,No
+Bryan King,897,2014-08-28-17-47-45,34,-1,Germany,,-1,1,2.0,Yes
+Juan Herrera,898,2014-08-28-17-47-49,50,-1,United States,VA,-1,-1,0.0,Yes
+Laura Garcia,899,2014-08-28-17-50-32,24,-1,United States,TX,-1,-1,2.0,Yes
+Melanie Oconnell,900,2014-08-28-17-56-02,25,-1,United States,TX,1,1,1.0,No
+Elizabeth Wilcox,901,2014-08-28-17-57-39,43,-1,United Kingdom,,1,1,1.0,No
+Grace King,902,2014-08-28-17-57-42,25,1,United States,CA,-1,1,3.0,No
+Benjamin Glenn,903,2014-08-28-17-59-31,24,-1,United Kingdom,,-1,-1,1.5427,Yes
+Scott Thomas,904,2014-08-28-17-59-54,51,-1,United States,CO,-1,-1,0.0,No
+Timothy Wright,905,2014-08-28-17-59-57,49,-1,United States,OR,1,1,2.0,No
+Michael Alvarez,906,2014-08-28-18-01-00,30,-1,United States,OK,-1,-1,1.5427,Yes
+Heather Cummings,907,2014-08-28-18-02-09,25,1,United States,OH,1,1,2.0,No
+Meghan Gordon,908,2014-08-28-18-07-42,36,-1,United States,TN,-1,1,1.0,Yes
+Michael Mason,909,2014-08-28-18-17-41,48,-1,United States,VA,-1,1,0.0,No
+Jeffrey Osborne,910,2014-08-28-18-18-43,48,-1,Australia,,-1,1,2.0,No
+Alexander Waters,911,2014-08-28-18-21-23,53,-1,United States,OR,-1,1,1.0,Yes
+Dawn Ellis,912,2014-08-28-18-21-58,24,1,United Kingdom,,1,1,3.0,Yes
+Susan Bailey,913,2014-08-28-18-26-35,33,-1,United States,OR,1,1,2.0,No
+Todd Coleman,914,2014-08-28-18-50-47,25,1,Canada,,1,1,2.0,No
+David Fry,915,2014-08-28-19-03-47,30,-1,United Kingdom,,-1,1,2.0,No
+Miranda Collins,916,2014-08-28-19-04-05,30,-1,United States,PA,-1,-1,0.0,Yes
+Tracy Munoz,917,2014-08-28-19-15-35,34,-1,United Kingdom,,-1,1,2.0,Yes
+Tiffany Lee,918,2014-08-28-19-26-03,31,-1,United States,SC,-1,-1,1.5427,Yes
+Ashley Frederick,919,2014-08-28-19-28-27,22,1,United States,CA,1,1,3.0,No
+Kelly Garcia,920,2014-08-28-19-35-39,28,-1,United States,TN,1,-1,2.0,No
+Derek Sims,921,2014-08-28-20-12-08,35,-1,United States,UT,1,1,1.0,No
+Cheryl Baird,922,2014-08-28-20-31-02,28,-1,United States,CA,1,1,2.0,No
+Richard White,923,2014-08-28-20-49-55,42,-1,New Zealand,,-1,1,2.0,No
+Sherri Graham,924,2014-08-28-21-22-40,33,-1,United States,MO,1,-1,1.5427,No
+James Lee,925,2014-08-28-21-24-48,29,-1,United States,CA,-1,-1,2.0,No
+Katherine Mann,926,2014-08-28-21-27-19,43,-1,United States,,1,-1,2.0,No
+Tammy Mathis,927,2014-08-28-21-30-35,29,-1,United States,NY,-1,-1,1.5427,No
+Lisa Wolf,928,2014-08-28-21-33-32,25,-1,United States,TX,-1,-1,1.5427,Yes
+Kimberly Harris,929,2014-08-28-21-38-12,31,-1,United States,MO,1,-1,0.0,No
+Ashley Braun,930,2014-08-28-21-41-53,35,1,United States,GA,1,1,2.0,No
+Catherine Hughes,931,2014-08-28-21-47-33,34,-1,United States,TX,-1,-1,3.0,No
+Stacey Serrano,932,2014-08-28-22-16-34,43,-1,United States,WA,-1,1,2.0,Yes
+Jennifer Gonzales,933,2014-08-28-22-17-15,38,-1,United States,WA,1,1,2.0,No
+Brian Brooks,934,2014-08-28-22-18-41,26,-1,United States,WA,1,1,2.0,No
+Jennifer Bailey,935,2014-08-28-22-20-33,38,-1,United Kingdom,,1,1,1.0,Yes
+Edward Perez,936,2014-08-28-22-22-39,42,-1,United States,TX,-1,1,3.0,No
+Julia Hooper,937,2014-08-28-22-23-47,33,-1,Netherlands,,1,1,1.5427,No
+Amanda Williams,938,2014-08-28-22-35-10,32,-1,United States,WA,-1,1,1.0,No
+Evelyn Dominguez,939,2014-08-28-22-39-57,44,-1,United States,WA,1,1,2.0,Yes
+Daniel Schmidt,940,2014-08-28-22-46-40,28,-1,United States,WA,1,1,1.0,No
+Harry Brown,941,2014-08-28-23-03-05,40,-1,United States,WA,1,1,2.0,Yes
+Mrs. Jessica Silva,942,2014-08-28-23-13-18,31,1,United States,AZ,1,1,2.0,No
+Heather Garcia,943,2014-08-28-23-16-30,32,-1,United States,WA,1,-1,2.0,No
+Colleen Mendoza,944,2014-08-28-23-57-07,28,-1,United States,WA,1,1,2.0,No
+Steven Jordan,945,2014-08-29-0-05-07,39,-1,United States,AZ,1,1,3.0,No
+Brittany Melton,946,2014-08-29-0-06-49,45,-1,United States,NY,-1,-1,1.5427,No
+Michele Henderson,947,2014-08-29-0-11-17,43,-1,United States,WA,-1,1,1.0,No
+Mary Dean,948,2014-08-29-0-41-25,35,-1,United States,CA,-1,1,2.0,No
+Carol Chavez,949,2014-08-29-0-43-37,40,-1,United States,WA,1,1,2.0,No
+Paul Mcclure,950,2014-08-29-0-47-09,34,-1,Netherlands,,-1,1,1.0,No
+Deborah Higgins,951,2014-08-29-1-14-09,24,-1,United Kingdom,,1,1,3.0,No
+Michael Hill,952,2014-08-29-1-20-32,61,-1,South Africa,,-1,1,2.0,Yes
+Shelley Wilson,953,2014-08-29-1-40-36,36,1,United States,WA,1,1,1.0,No
+Brenda Estrada,954,2014-08-29-2-10-57,38,-1,United States,TN,-1,-1,1.5427,No
+Diane Morris,955,2014-08-29-2-24-13,33,-1,Germany,,1,1,3.0,No
+Stephanie Turner,956,2014-08-29-3-02-16,30,-1,United States,WA,1,-1,0.0,No
+Deborah Ramsey,957,2014-08-29-3-02-45,34,-1,Netherlands,,1,1,1.0,Yes
+Chad Reyes,958,2014-08-29-3-08-25,26,-1,United States,CA,-1,1,1.0,No
+John Martinez,959,2014-08-29-4-39-23,33,-1,United Kingdom,,-1,-1,1.5427,No
+Mr. Joe Peterson,960,2014-08-29-4-53-12,32,-1,United Kingdom,,-1,-1,1.5427,No
+Jessica Gonzalez,961,2014-08-29-5-15-30,25,-1,Germany,,-1,-1,2.0,Yes
+Derrick Lawrence,962,2014-08-29-5-24-07,35,-1,Germany,,-1,1,2.0,Yes
+Brian Perez,963,2014-08-29-5-39-21,24,-1,United Kingdom,,1,-1,3.0,Yes
+Michael Maddox,964,2014-08-29-5-47-19,55,-1,United Kingdom,,-1,1,3.0,No
+Charles Parker,965,2014-08-29-5-54-26,33,-1,United Kingdom,,1,1,2.0,Yes
+Edward Nguyen,966,2014-08-29-5-57-48,26,1,United Kingdom,,1,1,2.0,Yes
+Christopher Hart,967,2014-08-29-6-06-46,25,-1,United Kingdom,,-1,-1,0.0,Yes
+Timothy King,968,2014-08-29-6-37-49,45,-1,United Kingdom,,1,-1,1.0,No
+Sarah Warren,969,2014-08-29-6-42-57,33,1,United Kingdom,,-1,1,2.0,Yes
+Patrick Mason,970,2014-08-29-7-12-43,43,-1,United States,MI,-1,-1,2.0,Yes
+Anita Melendez,971,2014-08-29-7-21-30,30,-1,United Kingdom,,-1,1,2.0,No
+Jaime Sullivan,972,2014-08-29-7-28-17,40,-1,United States,IN,1,1,1.0,No
+Ryan Bishop,973,2014-08-29-7-51-42,49,-1,United States,GA,1,-1,0.0,No
+John Smith,974,2014-08-29-8-26-36,29,-1,Germany,,-1,-1,1.5427,No
+Eric Kemp,975,2014-08-29-8-36-24,26,-1,Germany,,-1,-1,1.5427,No
+Kelly Kim,976,2014-08-29-8-46-31,38,-1,United States,WA,-1,-1,0.0,No
+Tracy Hobbs,977,2014-08-29-8-53-19,27,-1,France,,1,-1,1.5427,No
+Tracy Rodriguez,978,2014-08-29-8-54-23,26,-1,Belgium,,-1,-1,0.0,No
+Tina Snyder,979,2014-08-29-8-57-14,28,-1,United Kingdom,,1,1,3.0,No
+Elizabeth Fowler,980,2014-08-29-8-57-42,40,-1,United States,ME,1,1,2.0,Yes
+Scott Warner,981,2014-08-29-8-59-08,37,1,Canada,,1,1,1.0,Yes
+Levi Carter,982,2014-08-29-8-59-40,34,1,United Kingdom,,1,1,3.0,Yes
+Emily Henry,983,2014-08-29-9-01-01,28,-1,United States,NY,1,1,3.0,No
+Tim Salinas,984,2014-08-29-9-01-45,27,-1,Canada,,-1,-1,0.0,No
+Michael Barton,985,2014-08-29-9-02-04,29,-1,United Kingdom,,-1,1,2.0,Yes
+Lindsey Sutton,986,2014-08-29-9-02-56,39,1,United Kingdom,,1,-1,1.0,Yes
+Tiffany Stephenson,987,2014-08-29-9-03-50,28,-1,United Kingdom,,-1,-1,3.0,No
+Matthew Bowen,988,2014-08-29-9-10-08,23,-1,United States,PA,1,-1,2.0,No
+Sean Garcia,989,2014-08-29-9-10-58,8,0,"Bahamas, The",IL,1,1,3.0,Yes
+Eric Williams,990,2014-08-29-9-12-16,38,-1,United Kingdom,,-1,-1,1.5427,Yes
+Allen Flowers,991,2014-08-29-9-13-43,19,-1,United Kingdom,,-1,-1,1.5427,No
+Clinton Gilmore Jr.,992,2014-08-29-9-14-45,30,1,United States,IL,1,1,2.0,No
+Melissa Haney,993,2014-08-29-9-15-05,28,-1,United Kingdom,,-1,-1,1.5427,Yes
+Jeffrey Preston,994,2014-08-29-9-15-52,20,-1,India,,-1,1,2.0,No
+Michael Mccarthy,995,2014-08-29-9-19-25,35,-1,United Kingdom,,-1,-1,2.0,No
+Michael Cole,996,2014-08-29-9-24-34,39,-1,United States,MN,-1,1,1.0,Yes
+Alejandro Lewis,997,2014-08-29-9-23-22,31,1,United States,TX,1,-1,0.0,No
+David Diaz,998,2014-08-29-9-23-44,32,-1,United Kingdom,,-1,-1,1.0,No
+Rodney Gibbs,999,2014-08-29-9-27-12,27,-1,Sweden,,-1,-1,1.5427,No
+Tyler Price,1000,2014-08-29-9-29-37,25,-1,United States,PA,1,1,3.0,Yes
+Melissa Perez,1001,2014-08-29-9-31-37,42,-1,United States,IN,1,1,2.0,Yes
+Kevin Kelly,1002,2014-08-29-9-31-49,34,-1,United States,PA,1,1,3.0,No
+Ashley Kim,1003,2014-08-29-9-33-43,26,1,United States,OH,-1,1,2.0,Yes
+Joseph Brown,1004,2014-08-29-9-35-46,35,-1,United Kingdom,,1,1,2.0,No
+Robert Bates DDS,1005,2014-08-29-9-36-04,34,-1,United Kingdom,,-1,-1,0.0,No
+Mark Taylor,1006,2014-08-29-9-36-46,38,-1,United States,PA,1,1,2.0,Yes
+Haley Wall MD,1007,2014-08-29-9-40-13,34,-1,United States,SD,-1,-1,2.0,No
+Sara Meza,1008,2014-08-29-9-42-23,39,-1,United States,IN,1,1,2.0,Yes
+Michael Thompson,1009,2014-08-29-9-46-56,44,1,United States,CA,-1,-1,1.5427,No
+Heidi Lewis,1010,2014-08-29-9-47-10,40,-1,United States,TN,-1,-1,1.5427,No
+Brandi Arias,1011,2014-08-29-9-47-30,33,1,United States,TX,-1,-1,0.0,Yes
+Eric Phillips,1012,2014-08-29-9-51-35,24,1,United States,TN,1,-1,2.0,No
+Samantha Bradford,1013,2014-08-29-9-53-38,38,1,United States,OR,1,-1,2.0,Yes
+Calvin Lewis,1014,2014-08-29-9-53-50,31,-1,United States,SD,-1,-1,2.0,No
+Michael Anderson,1015,2014-08-29-9-54-01,23,-1,Israel,,-1,-1,1.5427,No
+Richard Church,1016,2014-08-29-9-54-11,26,1,United States,NY,-1,-1,1.5427,No
+Kathleen Jones,1017,2014-08-29-9-58-55,46,0,United States,CT,-1,1,3.0,No
+Emily Vasquez,1018,2014-08-29-9-59-39,30,-1,United States,CA,1,1,2.0,Yes
+Sarah Hill,1019,2014-08-29-10-03-24,25,-1,United States,,-1,-1,1.0,Yes
+Kyle Walker,1020,2014-08-29-10-05-57,19,-1,Canada,,-1,-1,0.0,Yes
+Brian Foster,1021,2014-08-29-10-06-29,30,1,United States,GA,1,1,2.0,No
+Nicole Rodriguez,1022,2014-08-29-10-12-10,32,-1,United States,TN,-1,-1,0.0,No
+Chloe Brooks,1023,2014-08-29-10-13-39,32,-1,United Kingdom,,-1,-1,1.5427,No
+Brian Holmes,1024,2014-08-29-10-13-43,37,-1,United States,IN,1,-1,2.0,Yes
+Bianca Davis,1025,2014-08-29-10-16-45,42,-1,United States,CA,1,1,2.0,Yes
+Jerry Kelley,1026,2014-08-29-10-27-15,25,1,United States,OR,-1,-1,0.0,No
+Pamela Castro,1027,2014-08-29-10-30-09,19,-1,United States,IN,-1,-1,2.0,No
+John Clarke Jr.,1028,2014-08-29-10-32-24,40,1,United States,GA,1,-1,0.0,Yes
+Emily Mahoney,1029,2014-08-29-10-33-45,34,-1,United States,IN,-1,-1,1.5427,No
+Ryan Alvarez,1030,2014-08-29-10-38-23,26,-1,United States,MN,1,-1,1.5427,No
+Derrick Lopez,1031,2014-08-29-10-38-29,31,-1,United States,MN,1,1,1.0,No
+Debra Strong,1032,2014-08-29-10-55-24,40,-1,United States,NC,1,-1,2.0,Yes
+Megan White,1033,2014-08-29-10-59-57,31,1,United States,FL,1,1,3.0,No
+Alex Brown,1034,2014-08-29-11-01-41,36,-1,United States,MN,-1,-1,0.0,No
+Cassandra Jackson,1035,2014-08-29-11-02-23,35,-1,Canada,,1,-1,2.0,Yes
+Mark House,1036,2014-08-29-11-04-19,26,-1,Australia,,1,1,2.0,Yes
+Logan Ferguson,1037,2014-08-29-11-05-00,44,-1,United States,MO,-1,-1,1.5427,Yes
+Elizabeth Li,1038,2014-08-29-11-11-00,34,1,United States,CA,-1,-1,2.0,No
+Stephen Richards,1039,2014-08-29-11-12-22,35,-1,United States,OR,-1,-1,1.5427,Yes
+Rachel Scott,1040,2014-08-29-11-19-46,28,1,United States,OH,1,1,2.0,Yes
+Karen Perez,1041,2014-08-29-11-20-13,33,-1,United States,NY,-1,-1,1.5427,Yes
+Austin Washington,1042,2014-08-29-11-20-28,40,-1,United States,WI,1,1,2.0,Yes
+Cindy Barton,1043,2014-08-29-11-20-52,26,-1,United States,WA,-1,1,2.0,No
+Jim Johnson,1044,2014-08-29-11-22-46,29,1,United Kingdom,,-1,1,3.0,No
+Tyrone Dickerson,1045,2014-08-29-11-23-21,26,1,Canada,,1,1,2.0,No
+Jason Mcclure,1046,2014-08-29-11-24-48,33,-1,Italy,,1,1,2.0,No
+Jacqueline Padilla,1047,2014-08-29-11-25-30,28,-1,Brazil,,1,-1,2.0,No
+Terry Roth,1048,2014-08-29-11-27-47,41,-1,United States,IL,-1,1,3.0,Yes
+Sean Rios,1049,2014-08-29-11-32-22,39,-1,United Kingdom,,1,1,2.0,Yes
+Brooke Williams,1050,2014-08-29-11-32-44,26,1,United States,WA,1,1,2.0,No
+Michael Brooks,1051,2014-08-29-11-33-54,23,1,United States,IL,1,-1,2.0,No
+Daniel Brown,1052,2014-08-29-11-34-07,35,-1,Switzerland,,1,1,3.0,No
+Peter Jones,1053,2014-08-29-11-36-38,36,-1,United States,FL,-1,-1,0.0,Yes
+Eric Shah,1054,2014-08-29-11-39-33,42,-1,United States,TN,-1,-1,1.0,No
+Joann Johnson,1055,2014-08-29-11-40-29,39,-1,United States,WA,1,1,2.0,No
+Amy Wells,1056,2014-08-29-11-43-12,27,-1,United States,CA,-1,-1,0.0,No
+Tamara Houston,1057,2014-08-29-11-44-33,33,-1,United States,FL,-1,-1,0.0,Yes
+Anthony Graham,1058,2014-08-29-11-46-27,31,-1,Canada,,1,1,3.0,No
+Justin Owens,1059,2014-08-29-11-53-59,28,1,United States,OR,-1,1,1.0,No
+William Davila,1060,2014-08-29-11-54-38,29,1,United States,NJ,-1,1,3.0,Yes
+William Davis,1061,2014-08-29-11-56-18,27,-1,United States,CA,-1,1,2.0,No
+Courtney Thornton,1062,2014-08-29-12-00-33,44,-1,United States,FL,-1,-1,0.0,Yes
+Meredith Ortiz,1063,2014-08-29-12-08-12,25,-1,United States,UT,-1,1,3.0,Yes
+Seth Edwards,1064,2014-08-29-12-15-57,24,-1,Germany,,1,1,2.0,No
+Kathryn Long,1065,2014-08-29-12-20-01,25,-1,South Africa,,1,1,3.0,No
+Samantha Sandoval,1066,2014-08-29-12-26-21,34,-1,United States,NJ,-1,-1,0.0,Yes
+Elizabeth Torres,1067,2014-08-29-12-27-54,26,-1,United States,PA,-1,-1,0.0,No
+Joe Levine,1068,2014-08-29-12-45-11,48,-1,United States,IN,-1,-1,0.0,No
+Kimberly Scott,1069,2014-08-29-12-48-20,34,-1,Greece,,-1,-1,1.5427,Yes
+Mark French,1070,2014-08-29-12-54-31,39,1,United States,OH,-1,1,2.0,Yes
+Daniel Hunt,1071,2014-08-29-13-17-33,43,-1,United States,OH,-1,-1,2.0,Yes
+Rebecca Martinez,1072,2014-08-29-13-23-40,41,-1,United States,IL,-1,-1,1.0,No
+Eduardo Walter,1073,2014-08-29-13-58-25,25,-1,United States,IN,-1,-1,0.0,No
+Dale Prince,1074,2014-08-29-14-04-59,31,-1,United States,CA,-1,1,2.0,No
+Robert Bird,1075,2014-08-29-14-09-21,40,-1,United States,WA,1,1,2.0,No
+Kristy Smith,1076,2014-08-29-14-31-00,43,-1,United States,VA,1,1,2.0,Yes
+Abigail Brown,1077,2014-08-29-14-51-49,27,1,United States,WA,1,1,3.0,No
+Sandra Scott,1078,2014-08-29-14-59-43,37,1,United States,NJ,1,1,2.0,Yes
+Sue Dunn,1079,2014-08-29-15-10-39,32,-1,Netherlands,,-1,1,2.0,No
+Phillip Brown,1080,2014-08-29-15-59-55,25,-1,United States,UT,1,1,3.0,No
+Thomas Anderson,1081,2014-08-29-16-07-05,29,-1,Netherlands,,1,1,3.0,No
+Patricia Jones,1082,2014-08-29-16-17-32,30,1,United States,TN,1,1,3.0,No
+James Martinez,1083,2014-08-29-16-21-16,34,1,Canada,,1,1,3.0,No
+Andrew Williams,1084,2014-08-29-16-30-50,32,-1,United Kingdom,,1,1,2.0,No
+Madison Willis,1085,2014-08-29-16-50-08,37,-1,Germany,,-1,-1,1.5427,No
+Jessica Brown,1086,2014-08-29-16-51-31,41,-1,Germany,,-1,1,2.0,No
+Craig Johnson,1087,2014-08-29-16-56-06,38,-1,United States,IN,1,-1,0.0,No
+Kaitlyn Jones,1088,2014-08-29-17-04-07,32,-1,United States,IN,-1,1,2.0,No
+William Murphy,1089,2014-08-29-17-04-12,28,1,United States,CA,1,1,2.0,No
+Jennifer Bailey,1090,2014-08-29-17-26-15,11,-1,United States,OH,-1,-1,0.0,Yes
+Mary Williams,1091,2014-08-29-17-32-31,43,-1,United States,TX,1,-1,0.0,No
+Kimberly Gardner,1092,2014-08-29-17-35-16,32,-1,United States,TN,1,1,3.0,No
+Joseph Ray,1093,2014-08-29-17-54-32,25,-1,United States,WA,-1,1,2.0,No
+Thomas Young,1094,2014-08-29-18-33-32,37,-1,United States,UT,-1,1,2.0,No
+Daniel Green,1095,2014-08-29-18-39-07,36,-1,United States,AL,-1,1,2.0,No
+Jacob Jennings,1096,2014-08-29-19-32-13,24,-1,United States,WI,1,1,1.0,Yes
+Xavier Potter,1097,2014-08-29-19-34-40,40,-1,United States,WA,1,1,2.0,No
+Francisco Miller,1098,2014-08-29-20-53-09,29,-1,United States,WI,-1,-1,1.5427,No
+Brooke Johnson,1099,2014-08-29-20-53-58,43,-1,United States,NY,-1,-1,0.0,No
+Anne Villegas,1100,2014-08-29-21-26-44,29,-1,United States,NY,-1,-1,1.5427,Yes
+James Santos,1101,2014-08-29-21-28-14,26,-1,United States,OH,1,-1,2.0,No
+Jonathan Smith,1102,2014-08-29-21-40-26,33,1,Canada,,1,1,3.0,Yes
+Zachary Harvey,1103,2014-08-29-22-08-51,35,1,United States,WA,1,-1,2.0,Yes
+Elizabeth Curtis,1104,2014-08-29-23-51-01,45,-1,United States,CA,-1,-1,0.0,Yes
+Julie Gomez,1105,2014-08-30-0-09-55,25,-1,United States,SC,-1,1,1.0,Yes
+Jasmine Jacobson,1106,2014-08-30-3-55-19,50,-1,France,,-1,1,2.0,Yes
+Patrick Chavez,1107,2014-08-30-5-05-44,26,-1,Australia,,1,1,1.0,No
+Amy Romero,1108,2014-08-30-5-47-08,33,1,United States,CA,-1,1,3.0,No
+Kayla Simmons,1109,2014-08-30-6-48-28,30,-1,India,,-1,-1,3.0,No
+Maria Jackson,1110,2014-08-30-7-31-05,33,-1,Croatia,,1,1,2.0,Yes
+April Campbell,1111,2014-08-30-11-48-52,29,-1,France,,-1,1,3.0,No
+Rita Little,1112,2014-08-30-12-35-06,37,-1,Germany,,-1,-1,1.5427,Yes
+Brandy Obrien,1113,2014-08-30-13-23-57,25,-1,United States,MN,1,1,2.0,Yes
+Joshua Walker,1114,2014-08-30-13-48-34,40,-1,United States,WA,-1,-1,1.5427,No
+Stephen Jackson,1115,2014-08-30-13-55-45,24,-1,Canada,,-1,-1,2.0,No
+Ryan Chapman,1116,2014-08-30-14-00-22,40,-1,United Kingdom,,-1,1,0.0,No
+Lauren Fuentes,1117,2014-08-30-15-57-04,46,-1,United States,PA,1,1,2.0,No
+Sylvia Smith,1118,2014-08-30-16-13-40,38,-1,United States,NY,1,1,1.0,No
+Logan Byrd,1119,2014-08-30-16-38-02,34,-1,United States,VT,-1,-1,0.0,Yes
+Mr. Benjamin Anthony,1120,2014-08-30-18-29-00,32,-1,United Kingdom,,-1,1,1.0,No
+Jonathan Schmidt,1121,2014-08-30-19-35-58,44,-1,United Kingdom,,-1,1,2.0,No
+Christopher Brown,1122,2014-08-30-19-56-23,33,1,United Kingdom,,-1,1,0.0,No
+Victoria Smith,1123,2014-08-30-20-12-33,45,1,United States,MI,-1,1,1.0,No
+Sara Reid,1124,2014-08-30-20-19-37,35,-1,United States,NY,-1,-1,1.5427,No
+Mr. David Beck,1125,2014-08-30-20-43-51,26,-1,Germany,,1,1,3.0,No
+Terry Johnson,1126,2014-08-30-20-46-35,20,1,United States,NY,-1,1,2.0,Yes
+Albert Moyer,1127,2014-08-30-20-55-11,-1,0,United States,AL,1,1,3.0,Yes
+Heather Johnson,1128,2014-08-31-4-31-11,37,-1,Netherlands,,1,-1,2.0,No
+Amy Beasley,1129,2014-08-31-9-19-43,28,-1,United States,MI,-1,-1,1.5427,No
+Patrick Johns,1130,2014-08-31-15-03-12,42,1,United States,WA,1,1,2.0,No
+Nathan Parks,1131,2014-08-31-15-23-16,32,-1,United Kingdom,,-1,-1,1.5427,No
+Ashley Blake,1132,2014-08-31-16-48-13,36,1,United States,TN,1,1,1.0,Yes
+Victor Freeman,1133,2014-08-31-22-11-48,27,-1,New Zealand,,-1,-1,1.0,No
+Bianca Mccarty,1134,2014-08-31-22-16-40,27,-1,New Zealand,,-1,-1,1.0,No
+Kari Jones,1135,2014-09-01-4-28-55,27,-1,United Kingdom,,-1,1,2.0,No
+Michael Khan,1136,2014-09-01-6-52-31,25,-1,United Kingdom,,1,1,2.0,Yes
+Sheila Yang,1137,2014-09-01-6-53-28,41,-1,United Kingdom,,1,-1,1.5427,No
+Cynthia Fisher,1138,2014-09-01-8-19-15,23,-1,Germany,,1,1,2.0,No
+Shannon Richardson,1139,2014-09-01-8-23-15,21,-1,United Kingdom,,-1,1,2.0,No
+Scott Morrow,1140,2014-09-01-9-12-15,26,-1,Moldova,,-1,1,3.0,No
+Michelle Bishop,1141,2014-09-01-9-15-34,29,-1,Sweden,,-1,-1,1.0,No
+Mark Nguyen,1142,2014-09-01-10-06-14,28,-1,Belgium,,-1,-1,2.0,No
+David Sullivan,1143,2014-09-01-10-40-32,27,1,United Kingdom,,1,-1,1.5427,No
+Suzanne Riley,1144,2014-09-01-12-00-28,23,-1,Israel,,-1,-1,0.0,No
+Autumn Payne,1145,2014-09-01-12-45-24,26,1,United States,NY,1,-1,2.0,Yes
+Michael Scott,1146,2014-09-01-17-59-14,38,-1,United Kingdom,,1,1,2.0,No
+Karen Hall,1147,2014-09-01-21-03-25,39,-1,United Kingdom,,1,1,2.0,No
+Sara Blackburn,1148,2014-09-01-21-34-12,35,-1,United States,IN,1,1,3.0,No
+Jasmin Blevins,1149,2014-09-01-22-58-47,32,-1,United States,NC,-1,-1,1.0,No
+Phillip Cohen,1150,2014-09-02-3-13-53,32,-1,United States,CA,-1,1,2.0,No
+Jennifer Maxwell,1151,2014-09-02-4-00-58,26,-1,United Kingdom,,-1,-1,0.0,No
+Danielle Coleman,1152,2014-09-02-8-00-33,38,-1,Canada,,1,1,1.0,No
+Julie Harris,1153,2014-09-02-8-24-43,34,1,United Kingdom,,1,-1,1.0,No
+Judy Goodman,1154,2014-09-02-9-57-22,39,-1,United States,TN,1,1,3.0,No
+Matthew Dalton,1155,2014-09-02-13-18-35,32,-1,Canada,,-1,-1,0.0,Yes
+Patricia Boyd,1156,2014-09-02-17-04-56,37,-1,Netherlands,,-1,-1,0.0,Yes
+Bethany Smith,1157,2014-09-02-20-23-49,31,-1,United Kingdom,,1,1,0.0,No
+Donna Flores,1158,2014-09-02-20-57-56,30,-1,United States,MN,1,1,1.0,No
+Destiny Wilkinson,1159,2014-09-03-1-32-51,51,-1,Singapore,,-1,-1,0.0,Yes
+Miranda Lynn,1160,2014-09-03-13-09-52,29,-1,United States,NC,-1,1,2.0,No
+Charles Boyer DDS,1161,2014-09-04-6-23-48,31,-1,United Kingdom,,-1,-1,0.0,No
+Jordan Vincent,1162,2014-09-04-8-35-49,31,-1,India,,-1,-1,1.5427,No
+Kaitlyn Jimenez,1163,2014-09-04-17-38-22,26,-1,United States,TX,1,1,2.0,Yes
+Jasmine Bailey DDS,1164,2014-09-04-23-42-28,46,1,United States,CA,-1,1,3.0,Yes
+Stephanie Davis,1165,2014-09-05-14-15-48,32,-1,United States,CA,1,-1,2.0,No
+Marvin Burgess,1166,2014-09-05-14-19-00,29,-1,United States,IL,1,1,2.0,No
+Andre Vargas,1167,2014-09-08-0-52-31,34,-1,Poland,,-1,-1,0.0,Yes
+Dr. Philip Martin,1168,2014-09-08-16-46-53,26,-1,Colombia,,-1,-1,3.0,No
+Kathy Robertson,1169,2014-09-08-21-30-59,32,1,United States,PA,-1,1,2.0,No
+David Ross,1170,2014-09-09-13-49-50,29,-1,United States,IL,-1,-1,1.5427,No
+Natasha Duran,1171,2014-09-11-17-00-30,30,-1,United States,IL,-1,-1,1.5427,No
+Corey Arias,1172,2014-09-12-19-18-18,40,1,United States,MN,1,1,2.0,No
+Martin Ingram,1173,2014-09-13-7-52-27,23,-1,United Kingdom,,-1,1,2.0,No
+Robert Williams,1174,2014-09-14-9-04-08,20,-1,Georgia,,-1,-1,1.0,No
+Robert Suarez,1175,2014-09-14-20-50-05,38,-1,United States,NY,1,-1,1.5427,No
+Jennifer Thomas,1176,2014-09-20-13-51-05,26,1,United States,MI,1,1,1.0,No
+Robert Smith,1177,2014-09-23-20-05-05,29,-1,United States,OH,-1,-1,0.0,No
+Jill Bates,1178,2014-09-26-8-45-56,40,-1,China,,-1,-1,2.0,Yes
+Jennifer George,1179,2014-09-26-10-05-55,25,1,Bulgaria,UT,-1,1,2.0,Yes
+Christopher Lam,1180,2014-09-26-21-25-14,32,1,United States,NY,-1,1,2.0,No
+Andrew Norton,1181,2014-09-30-9-19-01,38,-1,United States,CA,1,1,2.0,No
+Ronald Munoz,1182,2014-10-02-21-25-16,72,1,United States,IN,1,1,0.0,Yes
+Scott Murphy,1183,2014-10-05-21-16-10,35,1,United States,IN,1,1,2.0,Yes
+Valerie Martinez,1184,2014-10-09-11-14-59,28,1,United States,VA,-1,1,3.0,No
+Robert Nichols,1185,2014-11-05-10-08-44,27,1,United States,OK,-1,-1,0.0,No
+Michelle Craig,1186,2014-11-06-11-24-38,56,1,United States,OR,-1,-1,1.0,Yes
+Samantha Odonnell,1187,2014-11-16-8-42-35,38,-1,United States,AL,1,1,2.0,Yes
+Jessica Hubbard,1188,2014-12-01-9-58-28,31,1,Belgium,,-1,-1,1.5427,No
+Brian Hart,1189,2014-12-15-0-43-49,40,-1,United States,AL,1,1,2.0,No
+Anna Smith,1190,2015-01-03-3-38-30,44,-1,United States,OH,1,1,2.0,No
+Daniel Johnson,1191,2015-02-21-4-16-05,34,-1,Canada,,1,-1,2.0,No
+Brandon Moore,1192,2015-02-21-4-16-23,37,-1,United Kingdom,,-1,-1,0.0,Yes
+Nathan Johnson,1193,2015-02-21-4-18-48,38,-1,Italy,,-1,-1,0.0,No
+Daniel Pollard,1194,2015-02-21-4-19-28,27,-1,Germany,,-1,-1,1.5427,No
+Michael Richardson,1195,2015-02-21-4-23-05,34,1,Ireland,,-1,1,2.0,No
+Lauren Neal,1196,2015-02-21-4-32-45,35,1,Ireland,,-1,-1,1.0,No
+Roger Cross,1197,2015-02-21-4-34-56,34,-1,Ireland,,-1,1,3.0,No
+Mr. Dylan Church,1198,2015-02-21-4-41-28,32,-1,United States,TX,-1,1,3.0,Yes
+Ann Barton,1199,2015-02-21-4-51-53,25,-1,Ireland,,-1,-1,1.5427,No
+Julia Park DDS,1200,2015-02-21-4-55-11,28,-1,Australia,,-1,1,3.0,Yes
+Michele Campos,1201,2015-02-21-5-11-37,28,1,United States,TX,-1,1,1.0,No
+Tracey Weber,1202,2015-02-21-5-34-27,31,-1,Brazil,,-1,1,1.5427,No
+Jennifer Miles,1203,2015-02-21-5-55-13,24,-1,United Kingdom,,-1,-1,1.5427,No
+Andrea Hoffman,1204,2015-02-21-5-55-17,34,-1,Ireland,,1,1,0.0,Yes
+Matthew Mccarthy,1205,2015-02-21-6-06-09,32,-1,Ireland,,-1,1,2.0,No
+Amanda Miranda,1206,2015-02-21-6-19-41,34,-1,United Kingdom,,1,-1,3.0,Yes
+Laurie Craig,1207,2015-02-21-8-21-36,23,-1,United States,TX,-1,1,2.0,No
+Lindsay Brown,1208,2015-02-21-8-54-40,33,-1,Czech Republic,,1,-1,3.0,No
+Thomas Escobar,1209,2015-02-21-8-56-27,29,-1,Singapore,,1,1,2.0,No
+Terry Wilson,1210,2015-02-21-9-10-26,24,-1,Ireland,,1,-1,1.5427,No
+John Hawkins,1211,2015-02-21-9-16-45,45,-1,Ireland,,-1,-1,0.0,Yes
+Jeremy Delgado,1212,2015-02-21-9-18-20,34,1,United Kingdom,,-1,1,2.0,No
+Jody Salas,1213,2015-02-21-9-19-12,31,-1,Philippines,,-1,-1,2.0,No
+Megan Gardner,1214,2015-02-21-9-22-23,33,-1,United States,FL,-1,1,3.0,Yes
+Christopher Russell,1215,2015-02-21-9-29-20,28,-1,Netherlands,,-1,-1,1.5427,No
+James Davis,1216,2015-02-21-9-30-14,27,-1,United Kingdom,,-1,-1,1.0,Yes
+Melissa Humphrey,1217,2015-02-21-9-30-29,42,-1,Ireland,,-1,-1,0.0,No
+Christopher Holden,1218,2015-02-21-9-33-29,28,-1,Netherlands,,-1,-1,1.5427,No
+Tim Clark,1219,2015-02-21-9-48-13,38,-1,United States,TX,-1,1,2.0,Yes
+Donna Curtis,1220,2015-02-21-10-00-50,46,-1,United States,CA,1,1,3.0,No
+Jason Torres,1221,2015-02-21-10-45-51,46,-1,United States,MD,1,1,2.0,Yes
+Joseph Savage,1222,2015-02-21-11-48-52,41,1,Netherlands,,-1,1,1.0,Yes
+Allison Nichols,1223,2015-02-21-11-55-46,23,-1,United Kingdom,,-1,-1,0.0,No
+Sandra Edwards,1224,2015-02-21-13-19-11,24,-1,Ireland,,1,1,2.0,No
+Susan Walker,1225,2015-02-21-15-28-57,23,1,Ireland,,-1,1,1.0,No
+Patricia Lloyd,1226,2015-02-21-17-19-18,39,-1,Netherlands,,-1,-1,1.5427,No
+Lori Phillips,1227,2015-02-21-18-54-12,32,1,Ireland,,1,-1,0.0,No
+Timothy Wright,1228,2015-02-21-18-59-05,25,-1,United States,MN,1,1,2.0,No
+Julia Bradford,1229,2015-02-22-2-40-32,39,-1,Greece,,-1,-1,1.5427,Yes
+Brandy Santiago,1230,2015-02-24-8-54-35,23,1,United Kingdom,,1,1,2.0,No
+Sharon Mills,1231,2015-02-24-8-58-08,24,-1,United Kingdom,,-1,1,2.0,Yes
+Aaron Clark,1232,2015-02-24-9-00-56,25,-1,United Kingdom,,1,1,2.0,No
+Bailey Rodriguez,1233,2015-02-24-9-13-49,23,-1,United Kingdom,,-1,1,1.0,No
+Richard Lee,1234,2015-02-24-9-15-13,24,-1,United Kingdom,,-1,1,2.0,No
+Amber Snyder,1235,2015-02-24-9-18-25,23,-1,Canada,,-1,1,3.0,No
+William Sampson,1236,2015-02-24-10-32-32,60,-1,United States,CA,-1,1,3.0,Yes
+Russell Rosario,1237,2015-02-26-5-44-16,28,-1,Ireland,,-1,-1,2.0,No
+Randy Reed,1238,2015-04-02-15-47-43,28,-1,United States,TN,1,1,3.0,No
+Travis Taylor,1239,2015-04-04-11-22-05,30,-1,Netherlands,,-1,-1,2.0,No
+Matthew Underwood,1240,2015-04-06-14-58-29,31,-1,Germany,,1,1,2.0,No
+Jason Turner,1241,2015-04-11-14-35-22,31,-1,Poland,,-1,1,3.0,Yes
+Cindy Le,1242,2015-04-23-14-03-51,28,-1,Ireland,,-1,1,1.0,No
+Amy Miller,1243,2015-05-05-14-22-18,43,1,United States,FL,1,1,1.0,Yes
+Nancy Boyd,1244,2015-05-05-15-16-25,32,1,United Kingdom,,-1,-1,1.5427,No
+Thomas Vance,1245,2015-05-06-10-14-50,22,-1,Australia,,1,1,3.0,No
+Jennifer Griffin,1246,2015-05-06-16-55-58,32,-1,United States,OR,-1,-1,0.0,No
+Jason Ellis,1247,2015-05-07-10-08-50,36,-1,Finland,,-1,1,3.0,No
+Anthony Anderson,1248,2015-06-25-12-24-31,41,1,United States,WA,1,1,2.0,No
+Robert Cooper,1249,2015-07-22-18-57-54,30,-1,United States,CA,1,1,2.0,No
+Elizabeth Morrow,1250,2015-07-27-23-25-34,30,-1,United States,CA,1,1,3.0,No
+Christina Gonzalez,1251,2015-08-17-9-38-35,36,-1,South Africa,,1,1,3.0,No
+Joshua Hendrix,1252,2015-08-20-16-52-09,29,-1,United States,NC,1,1,2.0,Yes
+Valerie Hall,1253,2015-08-25-19-59-38,36,-1,United States,UT,1,-1,1.0,No
+Zachary Holland,1254,2015-09-12-11-17-21,26,-1,United Kingdom,,-1,1,1.5427,No
+Brianna Griffin,1255,2015-09-26-1-07-35,32,-1,United States,IL,1,1,3.0,Yes
+Kyle Baker,1256,2015-11-07-12-36-58,34,-1,United States,CA,1,1,2.0,No
+Daniel Anderson,1257,2015-11-30-21-25-06,46,1,United States,NC,-1,-1,1.5427,Yes
+Matthew Young,1258,2016-02-01-23-04-31,25,-1,United States,IL,1,1,2.0,No
+Monique Reeves,,,,,,,,,,
