@@ -68,8 +68,7 @@ comentaries, type<List<String>> searchable and modifiable. Some comentaries abou
 **\<Constructors>**
 
 C1: Has a parameter for each basic property of the type.<br>
-C2: Creates a type *Patient* from the following parameters *String name, int nPatient, int age, Treatment treatment*.<br>
-C3: Creates a type *Patient* from a String.</p>
+C2: Creates a type *Patient* from the following parameters *String name, int nPatient, int age, Treatment treatment*.</p>
 
 **\<Restrictions>**
 

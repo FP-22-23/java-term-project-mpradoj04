@@ -26,7 +26,7 @@ public class Patient {
 	
 	public Patient(String name,int nPatient, LocalDateTime date, int age, Gender gender, String country, String state, Treatment treatment, Double workInterfere, boolean remoteW, List<String> comentaries) {
 		Checkers.check("The name cannot be empty", name != "");
-		Checkers.check("Patient can`t have less than 5 years", age > 5);
+		Checkers.check("Patient can`t have less than 5 years", age >= 5);
 		Checkers.check("The date of the examination can't be before 2014", date.isAfter(LocalDateTime.of(2014,1,1,1,1,1)));
 		this.name = name;
 		this.nPatient = nPatient;
@@ -43,7 +43,7 @@ public class Patient {
 	
 	public Patient(String name, int nPatient, int age, Treatment treatment) {
 		Checkers.check("The name cannot be empty", name != "");
-		Checkers.check("Patient can`t have less than 5 years", age > 5);
+		Checkers.check("Patient can`t have less than 5 years", age >= 5);
 		this.name = name;
 		this.nPatient = nPatient;
 		this.date = null;
@@ -56,38 +56,8 @@ public class Patient {
 		this.remoteW = false;
 		this.comentaries = null;
 	}
-	
-	public Patient(String s) {
-		Checkers.check("The name cannot be empty", name != "");
-		Checkers.check("Patient can`t have less than 5 years", age > 5);
-		Checkers.check("The date of the examination can't be before 2014", date.isAfter(LocalDateTime.of(2014,1,1,1,1,1)));
-		String[] values = s.split(",");
-		String[] dval = values[2].split("-");
-		Checkers.check("Invalid format of string", values.length == 11);
-		String name = String.valueOf(values[0].trim());
-		int nPatient = Integer.parseInt(values[1].trim());
-		LocalDateTime date = LocalDateTime.of(Integer.parseInt(dval[0]),Integer.parseInt(dval[1]),Integer.parseInt(dval[2]),Integer.parseInt(dval[3]),Integer.parseInt(dval[4]),Integer.parseInt(dval[5]));
-		int age = Integer.parseInt(values[3].trim());
-		Gender gender = parseGender(Integer.parseInt(values[4].trim()));
-		String country = values[5].trim();
-		String state = values[6].trim();
-		Treatment treatment = new Treatment(parseFrecord(Integer.parseInt(values[7].trim())),parseTreatment(Integer.parseInt(values[8].trim())));
-		Double workInterfere = Double.valueOf(values[9]);
-		boolean remoteW = parseRemoteW(values[10].trim());
-		
-		this.name = name;
-		this.nPatient = nPatient;
-		this.date = date;
-		this.age = age;
-		this.gender = gender;
-		this.country = country;
-		this.state = state;
-		this.treatment = treatment;
-		this.workInterfere = workInterfere;
-		this.remoteW = remoteW;
-	}
 
-	public Gender parseGender(int i) {
+	public static Gender parseGender(int i) {
 		if (i == 1) {
 			return Gender.WOMAN;
 		}
@@ -96,7 +66,7 @@ public class Patient {
 		}
 	}
 	
-	public boolean parseFrecord(int i) {
+	public static boolean parseFrecord(int i) {
 		if (i==1) {
 			return true;
 		}
@@ -105,7 +75,7 @@ public class Patient {
 		}
 	}
 	
-	public boolean parseTreatment(int i) {
+	public static boolean parseTreatment(int i) {
 		if (i==1) {
 			return true;
 		}
@@ -114,7 +84,7 @@ public class Patient {
 		}
 	}
 	
-	public boolean parseRemoteW(String s) {
+	public static boolean parseRemoteW(String s) {
 		if (s == "Yes") {
 			return true;
 		}
@@ -132,7 +102,7 @@ public class Patient {
 		this.name = name;
 	}
 
-	public int getnPatient() {
+	public Integer getnPatient() {
 		return nPatient;
 	}
 
@@ -212,13 +182,11 @@ public class Patient {
 		this.comentaries = comentaries;
 	}
 
-	@Override
 	public int hashCode() {
 		return Objects.hash(age, comentaries, country, date, gender, nPatient, name, remoteW, state, treatment,
 				workInterfere);
 	}
 
-	@Override
 	public boolean equals(Object obj) {
 		if (this == obj)
 			return true;
@@ -234,7 +202,6 @@ public class Patient {
 				&& Objects.equals(workInterfere, other.workInterfere);
 	}
 
-	@Override
 	public String toString() {
 		return "Patient [name=" + name + ", nPatient=" + nPatient + ", date=" + date + ", age=" + age + ", gender="
 				+ gender + ", country=" + country + ", state=" + state + ", treatment=" + treatment + ", workInterfere="
@@ -246,9 +213,9 @@ public class Patient {
         if (p == null) {
             throw new NullPointerException();
         }
-         r = this.getDate().compareTo(p.getDate());
+         r = this.getName().compareTo(p.getName());
            if(r == 0) {
-               r = this.getName().compareTo(p.getName());
+               r = this.getnPatient().compareTo(p.getnPatient());
            }
         return r;
     }

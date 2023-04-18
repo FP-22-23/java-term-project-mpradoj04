@@ -5,7 +5,7 @@ import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
 
-public class PatientTest {
+public class TestPatient {
 
 	public static void main(String[] args) {
 		List<String> c1 = new ArrayList<String>();
@@ -22,11 +22,9 @@ public class PatientTest {
 		
 		Patient p1 = new Patient("Elysa",1,LocalDateTime.of(2014,8,27,11,29,31),37,Gender.WOMAN, "United States", "IL",new Treatment(false,true),3.0,false,c1);
 		Patient p2 = new Patient("Richard",50,40,new Treatment(true,true));
-		Patient p3 = new Patient("James Russell,1,2014-08-27-11-29-37,44,-1,United States,IN,-1,-1,1.0,No");
 		
 		System.out.println(p1);
 		System.out.println(p2);
-		System.out.println(p3);
 		System.out.println(" ");
 		
 		
@@ -35,7 +33,7 @@ public class PatientTest {
 		System.out.print(p1.getAge()+ " "); System.out.print(p1.getGender()+ " "); System.out.print(p1.getCountry()+ " "); System.out.print(p1.getState()+ " ");
 		System.out.print(p1.getTreatment()+ " "); System.out.print(p1.getWorkInterfere()+ " "); System.out.print(p1.getRemoteW()+ " "); System.out.println(p1.getComentaries());
 		
-		p2.setName("Leo"); p2.setnPatient(2); p2.setDate(LocalDateTime.of(2014,8,27,11,29,37)); p2.setAge(44); p2.setGender(Gender.MAN); p2.setCountry("United States"); 
+		p2.setName("Leo"); p2.setnPatient(2); p2.setGender(Gender.MAN); p2.setCountry("United States"); 
 		 p2.setTreatment(new Treatment(false,false)); p2.setWorkInterfere(1.0); p2.setRemoteW(false); p2.setComentaries(c2);
 		System.out.println(" ");
 		System.out.println(p2);
@@ -55,6 +53,23 @@ public class PatientTest {
 		else {
 			System.out.println("Patient "+ p2.getnPatient() + " goes before patient " + p1.getnPatient());
 		}
+		
+		System.out.println(" ");
+		
+		Patient p3 = FactoryPatient.parsePatient("Miguel Prado,1300,2014-08-27-11-31-50,18,-1,Spain,Andalucia,1,1,2.0,Yes");
+		System.out.println(p3);
+		System.out.println(" ");
+		
+		Patients patients = FactoryPatient.readPatients("data/mentalHealth.csv");
+		//System.out.println(patients);
+		
+		System.out.println(patients.getNumberPatients());
+		System.out.println(" ");
+		patients.addPatient(p3);
+		
+		patients.displayPatient(1300);
+		System.out.println(" ");
+		
 	}
-
+		
 }
