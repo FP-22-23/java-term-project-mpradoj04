@@ -53,23 +53,47 @@ public class TestPatient {
 		else {
 			System.out.println("Patient "+ p2.getnPatient() + " goes before patient " + p1.getnPatient());
 		}
-		
 		System.out.println(" ");
 		
+		
+		/// ----SECOND DELIVERY----
+		
+		//Factory, from a String
 		Patient p3 = FactoryPatient.parsePatient("Miguel Prado,1300,2014-08-27-11-31-50,18,-1,Spain,Andalucia,1,1,2.0,Yes");
 		System.out.println(p3);
 		System.out.println(" ");
 		
+		//Factory, from the csv file
 		Patients patients = FactoryPatient.readPatients("data/mentalHealth.csv");
 		//System.out.println(patients);
 		
+		//Get number patients, add a patient, remove a patient
 		System.out.println(patients.getNumberPatients());
 		System.out.println(" ");
 		patients.addPatient(p3);
-		
 		patients.displayPatient(1300);
 		System.out.println(" ");
+		patients.deletePatient("Miguel Prado,1300,2014-08-27-11-31-50,18,-1,Spain,Andalucia,1,1,2.0,Yes");
+		patients.displayPatient(1300);
+		System.out.println(" ");
+		//patients.addPatient(p3);
 		
+		// Sequential treatments
+		// a. exists
+		patients.existsPatient(p3);
+		System.out.println(" ");
+		//b. counter 
+		patients.countPatientsGender(Gender.WOMAN);
+		System.out.println(" ");
+		//c. a selection with filtering
+		System.out.println(patients.filterYoungerThan(50));
+		System.out.println(" ");
+		//d. grouping method with collections as values
+		System.out.println(patients.patientsByCountry());
+		System.out.println(" ");
+		//e. grouping method with counts as values
+		System.out.println(patients.countPatientsState());
+		System.out.println(" ");
 	}
 		
 }
