@@ -122,7 +122,7 @@ Class which contains the methods necessary for creating objects of type Patient 
 ### Container type - Patients
 Container class of the objects of type Patient
 
-Propiedades:
+**\<Properties>**
 
 patients, of type <Set<Patient>>, consultable. Set of patients from the clinic</p>
 
@@ -145,5 +145,5 @@ C3: Constructor with a parameter of type Stream<Patient>. It creates the object 
 -*Boolean existsPatient(Patient patient)*: Returns true or false depending on whether that patient is in the object or not.<br>
 -*Integer countPatientsGender(Gender g)*: Returns the number of patients of the given gender.<br>
 -*Set<Patient> filterYoungerThan(Integer age)*: It returns a set with the patients which are younger than the given age.<br>
--*Map<String, Set<Patient>> patientsByCountry*: Returns a diccionary whose keys are the countries from which the patients are from, and the values are these patients whith that nationality.<br>
+-*Map<String, Set> patientsByCountry*: Returns a diccionary whose keys are the countries from which the patients are from, and the values are these patients whith that nationality.<br>
 -*Map<String, Integer> countPatientsState*: Creates a diccionary whose keys are the states from which the patients are from (given that there are so many americans) and the values the number of patients from that state.</p>
