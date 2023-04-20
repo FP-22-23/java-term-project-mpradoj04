@@ -73,7 +73,7 @@ public class TestPatient {
 		patients.addPatient(p3);
 		patients.displayPatient(1300);
 		System.out.println(" ");
-		patients.deletePatient("Miguel Prado,1300,2014-08-27-11-31-50,18,-1,Spain,Andalucia,1,1,2.0,Yes");
+		patients.deletePatient(p3);
 		patients.displayPatient(1300);
 		System.out.println(" ");
 		//patients.addPatient(p3);

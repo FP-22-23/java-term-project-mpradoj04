@@ -19,6 +19,10 @@ public class Patients {
 		patients = null;
 	}
 	
+	public Patients(Collection<Patient> patients) {
+		this.patients = patients.stream().collect(Collectors.toSet());
+	}
+	
 	public Patients(Stream<Patient> p) {
 		this.patients = p.collect(Collectors.toSet());
 	}
@@ -46,19 +50,16 @@ public class Patients {
 		return patients.size();
 	}
 	
-	public Set<Patient> addPatient(Patient p){
+	public void addPatient(Patient p){
 		patients.add(p);
-		return patients;
 	}
 	
-	public Set<Patient> addPatients(Collection<Patient> c){
+	public void addPatients(Collection<Patient> c){
 		patients.addAll(c);
-		return patients;
 	}
 	
-	public Set<Patient> deletePatient(String c){
-		patients.removeIf(p->p.equals(FactoryPatient.parsePatient(c)));
-		return patients;
+	public void deletePatient(Patient c){
+		patients.removeIf(p->p.equals(c));
 	}
 	
 	public Patient displayPatient(Integer nPatient) {

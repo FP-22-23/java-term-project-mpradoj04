@@ -36,7 +36,7 @@ My data set contains \<11\>  different columns which give information about:
 
 The types that have been implemented in the proyect are the following
 
-# Base type - Patient
+### Base type - Patient
 
 Represents the data about a patient
 
@@ -78,13 +78,13 @@ R3: the date of the examination must be after year 2014 (included).</p>
 
 ***Equality criterium**: Two patients are equal if all their basic properties are equal.
 
-***Order criterium**: First by date, then by name.
+***Order criterium**: First by name, then by patient number.
 
 ***Other operations**:
 
 - _: Descripción del método 1.
 
-# Auxiliary type - Treatment
+### Auxiliary type - Treatment
 
 One of the basic properties in Patient
 
@@ -103,7 +103,7 @@ C2: Doesn't take parameters.
 
 ***Other operations**:
 
--boolean isUrgent. Which takes no atributes, and depending on the values of the basic properties of Treatment, it will return true if the patient condition is critical, false otherwise
+-*boolean isUrgent*. Which takes no atributes, and depending on the values of the basic properties of Treatment, it will return true if the patient condition is critical, false otherwise
 
 #### Auxiliary types
 
@@ -113,34 +113,37 @@ C2: Doesn't take parameters.
 
 
 
-Factoría
-Descripción breve de la factoría.
+### Factory - FactoryPatient
+Class which contains the methods necessary for creating objects of type Patient and Patients
 
-método 1: Descripción del método 1.
-método 2: Descripción del método 2.
-Tipo Contenedor
-Descripción breve del tipo contenedor.
+-*Patient parsePatient(String line)*: It creates a Patient from the information given in the string.<br>
+-*Patients readPatients(String route)*: It creates an object of type Patients, with the information available in the csv file, whose route is given as a parameter.</p>
+
+### Container type - Patients
+Container class of the objects of type Patient
 
 Propiedades:
 
-propiedad1, de tipo <Tipo1>, consultable.
-propiedad2, de tipo <Tipo2>, consultable y modificable.
-...
-Constructores:
+patients, of type <Set<Patient>>, consultable. Set of patients from the clinic</p>
 
-C1: Descripción del constructor 1.
-C2: Descripción del constructor 2.
-...
-Restricciones:
+**\<Constructors>**
 
-R1: Descripción de la restricción 1.
-R2: Descripción de la restricción 2.
-...
-Criterio de igualdad: Describir el criterio de igualdad
+C1: Doesn't take parameters.<br>
+C2: Has a parameter of type Collection<Patient>. It creates an object of type Patients with the information in the collection. <br>
+C3: Constructor with a parameter of type Stream<Patient>. It creates the object with the Patients given in the stream.</p>
 
-Criterio de ordenación: Describir el criterio de ordenación (si lo hay).
+***Equality criterium**: Two patients are equal if all their basic properties are equal.
 
-Otras operaciones:
 
-método 1: Descripción del método 1.
-...
+***Other operations**:
+
+-*Integer getNumberPatients*: It returns the number of patients inside the Set.<br>
+-*void addPatient(Patient p)*: It adds a Patient to the object.<br>
+-*void addPatients(Colletion<Patient> c)*: Adds a collection of Patients to the object.<br>
+-*void deletePatient(Patient p)*: Removes the patient given as parameter if there is one to be found which fulfills the equality criterium.<br>
+-*Patient displayPatient(Integer nPatient)*: It shows in the terminal the patient whose number is the one given as parameter.<br>
+-*Boolean existsPatient(Patient patient)*: Returns true or false depending on whether that patient is in the object or not.<br>
+-*Integer countPatientsGender(Gender g)*: Returns the number of patients of the given gender.<br>
+-*Set<Patient> filterYoungerThan(Integer age)*: It returns a set with the patients which are younger than the given age.<br>
+-*Map<String, Set<Patient>> patientsByCountry*: Returns a diccionary whose keys are the countries from which the patients are from, and the values are these patients whith that nationality.<br>
+-*Map<String, Integer> countPatientsState*: Creates a diccionary whose keys are the states from which the patients are from (given that there are so many americans) and the values the number of patients from that state.</p>
