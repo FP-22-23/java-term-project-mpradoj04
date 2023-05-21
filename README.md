@@ -147,7 +147,7 @@ C3: Constructor with a parameter of type Stream<Patient>. It creates the object 
 -*Set<Patient> filterYoungerThan(Integer age)*: It returns a set with the patients which are younger than the given age.<br>
 -*Map<String, Set Patient> patientsByCountry*: Returns a diccionary whose keys are the countries from which the patients are from, and the values are these patients whith that nationality.<br>
 -*Map<String, Integer> countPatientsState*: Creates a diccionary whose keys are the states from which the patients are from (given that there are so many americans) and the values the number of patients from that state.</p>
-****Third delivery****
+****Third delivery****</p>
 -*Boolean extistsPatient2(Patient p)*: Same functionality as the first, but implemented with streams instead of loops<br>
 -*Integer countPatientsGender2(Gender g)* : Same functionality as the first, but implemented with streams instead of loops<br>
 -*Set<Patient> filterYoungerThan2(Integer age)*: Same functionality as the first, but implemented with streams instead of loops<br>
