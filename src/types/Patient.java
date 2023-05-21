@@ -9,7 +9,7 @@ import common.Gender;
 import common.Treatment;
 import utils.Checkers;
 
-public class Patient {
+public class Patient implements Comparable<Patient>{
 
 	private String name;
 	private int nPatient;

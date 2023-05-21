@@ -94,6 +94,53 @@ public class TestPatient {
 		//e. grouping method with counts as values
 		System.out.println(patients.countPatientsState());
 		System.out.println(" ");
+		
+		/// ----THIRD DELIVERY----
+		
+		//To choose one of the following two: exists / for everything (the same implemented in delivery 2, but with streams)
+		System.out.println(patients.existsPatient2(p3));
+		System.out.println(" ");
+		
+		// To choose one of the following three: counter / sum / average (the same implemented in delivery 2, but with streams)
+		System.out.println(patients.countPatientsGender2(Gender.WOMAN));
+		System.out.println(" ");
+		
+		// A selection with filtering (the same implemented in delivery 2, but with streams).
+		System.out.println(patients.filterYoungerThan2(50));
+		System.out.println(" ");
+		
+		//A maximum/minimum with filtering.
+		System.out.println(patients.getOldestPatient(Gender.MAN));
+		System.out.println(" ");
+		
+		//  A selection, with filtering and sorting.
+		System.out.println(patients.getLatestPatientsFrom("United States"));
+		System.out.println(" ");
+		
+		// One of the methods (4) or (5) implemented in delivery 2, but with streams.
+		System.out.println(patients.patientsByCountry2());
+		System.out.println(" ");
+		
+		System.out.println(patients.patientsByCountry2().equals(patients.patientsByCountry()));
+		System.out.println(" ");
+		
+		// A method whose implementation is used, either the Collector collectingAndThen, or the Collector mapping.
+		System.out.println(patients.patientsByAge());
+		System.out.println(" ");
+		
+		// A method that returns a Map in which the keys are an attribute or a function over an attribute, and the values are maximum/minimum of the elements that have that value.
+		System.out.println(patients.youngestPatientByYear());
+		System.out.println(" ");
+		
+		// A method that returns a SortedMap in which the keys are an attribute or a function over an attribute, and the values are lists with the n best or worst elements that share the value of that attribute (or function over the attribute).
+		System.out.println(patients.nMoreWorkInterferePatientsByState(3));
+		System.out.println(" ");
+		
+		// A method that calculates a Map and returns the key with the associated value (largest or smallest) of the entire Map.
+		System.out.println(patients.mostRecentUrgentPatientAge());
+		System.out.println(" ");
+		
+		System.out.println(patients.check());
 	}
 		
 }

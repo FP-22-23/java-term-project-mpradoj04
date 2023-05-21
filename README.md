@@ -145,5 +145,15 @@ C3: Constructor with a parameter of type Stream<Patient>. It creates the object 
 -*Boolean existsPatient(Patient patient)*: Returns true or false depending on whether that patient is in the object or not.<br>
 -*Integer countPatientsGender(Gender g)*: Returns the number of patients of the given gender.<br>
 -*Set<Patient> filterYoungerThan(Integer age)*: It returns a set with the patients which are younger than the given age.<br>
--*Map<String, Set> patientsByCountry*: Returns a diccionary whose keys are the countries from which the patients are from, and the values are these patients whith that nationality.<br>
+-*Map<String, Set Patient> patientsByCountry*: Returns a diccionary whose keys are the countries from which the patients are from, and the values are these patients whith that nationality.<br>
 -*Map<String, Integer> countPatientsState*: Creates a diccionary whose keys are the states from which the patients are from (given that there are so many americans) and the values the number of patients from that state.</p>
+-*Boolean extistsPatient2(Patient p)*: Same functionality as the first, but implemented with streams instead of loops
+-*Integer countPatientsGender2(Gender g)* : Same functionality as the first, but implemented with streams instead of loops
+-*Set<Patient> filterYoungerThan2(Integer age)*: Same functionality as the first, but implemented with streams instead of loops
+-*Patient getOldestPatient(Gender g)*: It returns the oldest patient according to age, and to the gender introduced as input
+-*List<Patient> getLatestPatientsFrom(String c)*: It returns a list with the patients of the country specified in the input, and sorted so that the ones which have visited the clinic most recently appear first
+-*Map<String, Set Patient> patientsByCountry2()*: Same functionality as the first, but implemented with streams instead of loops
+-*Map<Integer, Patient> > youngestPatientByYear()*: Returns a dictionary in which the keys are the years in which the patients have visited the clinic, and the values are the youngest patient that have come that year
+-*SortedMap<String, List Patient> nMoreWorkInterferePatientsByState(Integer n)*: The keys are the different states (because the mayority of patients are from the USA, and if not, then it is blank) sorted by alphabetical order. And the values are a list of n values (being n the input) sorted according to their WorkInterfere, from greatest to lowest
+-*Integer mostRecentUrgentPatientAge()*: It creates an auxiliary map with keys the ages of the patients, and values the patient whose treatment is considered to be urgent and its visit date is the most recent. Then, we use an auxiliary list, with all the patients from the values of the dictionary , sorted according to date, most recent been the first element in the list. At last, using a loop, it returns the age, with is the key that corresponds with the first element of the list+
+-*Map<Integer, Patient> check()*: same map as the auxiliary in the previous function, whose only purpose is to check that the previous function was working correctly
